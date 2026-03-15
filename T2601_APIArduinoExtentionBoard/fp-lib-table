@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "T2601_APIArduinoExtentionBoard_Lib")(type "KiCad")(uri "${KIPRJMOD}/T2601_APIArduinoExtentionBoard_Lib.pretty")(options "")(descr ""))
+)
