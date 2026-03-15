@@ -10,7 +10,7 @@ Emplacement pour 2 mezanine.
 
 ## Connectivité
 
-UART TX -> RX -> TX -> RX  
+UART circulaire
 Bus de logique avec nappe et connecteur de nappe 2x8  
 4x 5V (pour 1,5 A), 6x GND, 2x UART (aller et retour), 1x rst, 1x res  
 Bus puissance avec connecteurs JST  
@@ -70,8 +70,8 @@ Led rouge sur la dernière broche libre de l’arduino
 
 ## Mécanique
 
-Largeur 60, Hauteur à définir
-4 trous pour vis à des positions à définir
+Largeur 60, Hauteur 90 à définir
+4 trous pour vis M3 avec un entraxe de 30 en largeur, à 10 du bord suppérieur et à 20 du bord inférieur.
 
 # Mezanine
 
