@@ -7737,6 +7737,17 @@
 		)
 		(uuid "cb469e4c-db7f-40af-a33c-8603fcf42a75")
 	)
+	(text "License\nCopyright (C) 2026 HackHype\nThis project is licensed under CERN OHL-S v2.\nSee the LICENSE file for details.\n```\n"
+		(exclude_from_sim no)
+		(at 14.478 192.278 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e0a07b0b-91dd-41bb-8cf5-894bb1e54a36")
+	)
 	(text "Tac Switch Reset"
 		(exclude_from_sim no)
 		(at 251.206 17.78 0)
