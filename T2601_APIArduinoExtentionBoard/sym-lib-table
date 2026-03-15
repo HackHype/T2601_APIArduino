@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "T2601_APIArduinoExtentionBoard_Lib")(type "KiCad")(uri "${KIPRJMOD}/T2601_APIArduinoExtentionBoard_Lib.kicad_sym")(options "")(descr ""))
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "C:/Users/jules/Documents/KiCad/easyeda2kicad/easyeda2kicad.kicad_sym")(options "")(descr ""))
+)
