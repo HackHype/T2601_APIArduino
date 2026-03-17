@@ -32,7 +32,7 @@ _Bus slave node — based on the ATmega328P_
 ---
 
 ### 🟨 Mezzanine Card
-_Hot-swappable I/O interface module — 25 × 25 mm_
+_swappable I/O interface module — 25 × 25 mm_
 
 | Driver         | Type        | Typical Use                  |
 |----------------|-------------|------------------------------|
@@ -60,4 +60,4 @@ T2601_APIArduino/
 
 ## License
 
-This project is open hardware — **CERN OHL v2 Permissive**.
+This project is open hardware — **CERN OHL v2 Strongly Reciprocal**.
