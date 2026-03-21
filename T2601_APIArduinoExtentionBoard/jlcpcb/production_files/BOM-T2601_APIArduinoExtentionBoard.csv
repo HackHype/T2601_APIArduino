@@ -1,6 +1,6 @@
 Comment,Designator,Footprint,LCSC,Quantity
-100nF,C3,C_0402,C1525,1
-1kΩ,R24,R_0603,C21190,1
+100nF,"C3,C4",C_0402,C1525,2
+1kΩ,"R24,R25",R_0603,C21190,2
 2.4kΩ,R23,R_0603,C22940,1
 22pF,"C1,C2",C_0402,C1555,2
 5.6kΩ,R5,R_0603,C23189,1
@@ -8,7 +8,7 @@ Comment,Designator,Footprint,LCSC,Quantity
 ATMEGA328P-AU,U1,TQFP-32_L7.0-W7.0-P0.80-LS9.0-BL,C14877,1
 Green,"D14,D15,D16,D17,D18,D19,D2,D20,D21,D22,D23,D24,D25,D3,D4,D5,D7,D8",D_0805,C2297,18
 M7,D6,D_SMA,C95872,1
-Red,D13,D_0805,C84256,1
+Red,"D13,D26",D_0805,C84256,2
 "Tactile Button, 160gf",S1,SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2,C318884,1
 X322516MOB4SI,X1,CRYSTAL-SMD_4P-L3.2-W2.5-BL,C12668,1
 Yellow,"D10,D11,D12,D9",D_0805,C2296,4
@@ -16,14 +16,14 @@ Screw_Terminal_01x08,J5,TerminalBlock_TE_282834-8_1x08_P2.54mm_Horizontal,,1
 Screw_Terminal_01x02,J14,TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal,,1
 Conn_01x10_Socket,J2,PinSocket_1x10_P2.54mm_Vertical,,1
 Conn_02x03_Counter_Clockwise,J7,PinSocket_2x03_P2.54mm_Vertical,,1
-Conn_02x07_Counter_Clockwise,J10,IDC-Header_2x07_P2.54mm_Vertical,,1
 Conn_01x10_Socket,J3,PinSocket_1x10_P2.54mm_Vertical,,1
 Conn_01x04_Pin,J13,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,,1
 Conn_01x04,J8,PinSocket_1x04_P2.54mm_Vertical,,1
 Conn_01x10_Socket,J1,PinSocket_1x10_P2.54mm_Vertical,,1
 Screw_Terminal_01x02,J12,TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal,,1
-Conn_02x07_Counter_Clockwise,J9,IDC-Header_2x07_P2.54mm_Vertical,,1
+Conn_02x08_Counter_Clockwise,J9,IDC-Header_2x08_P2.54mm_Vertical,,1
 Screw_Terminal_01x08,J6,TerminalBlock_TE_282834-8_1x08_P2.54mm_Horizontal,,1
 Conn_01x10_Socket,J4,PinSocket_1x10_P2.54mm_Vertical,,1
 D_Schottky,D1,D_5W_P12.70mm_Horizontal,,1
 Conn_01x04_Pin,J11,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,,1
+Conn_02x08_Counter_Clockwise,J15,IDC-Header_2x08_P2.54mm_Vertical,,1
