@@ -99,6 +99,34 @@ Largeur 60, Hauteur 90 à définir
 
 ## communication (idée)
 
+Commandes envoyée ddans le Bus
+| Champs | Taille \[bit\] |
+|---|---|
+| Contrôle | 8 | 
+| Adresse noeud | 8 |
+| Adresse registre | 8 |
+| longeur donnée | 8 |
+| Donnée | 8 - 2048 |
+
+Champ contrôles
+| 7  - 4            | 3 - 2                  | 1 - 0    | 
+|---|---|---|
+| version protocole (idée) | destinations spéciales | commande |
+
+destinations spéciales :
+- Normales
+- Prochain noeud
+- Broadcast (tous)
+- Adresses allongées (idée...)
+
+commandes :
+- Lire
+- Ecrire
+- Annoncer
+
+Adresse de noeud spéciales
+0x00 : maître
+
 avoir un groupe de potentiellement 127 ou 256 "registre" qui peuvent être lu ou écrit
 
 | premier | nombre | fonciton |
