@@ -97,4 +97,17 @@ Largeur 60, Hauteur 90 à définir
   - RS485 (nécessite Software serial)
   - FRAM (nécessite SPI ou I2C)
 
+## communication (idée)
+
+avoir un groupe de potentiellement 127 ou 256 "registre" qui peuvent être lu ou écrit
+
+| premier | nombre | fonciton |
+|---|---|---|
+| 0  | 16  | paramètre généraux de la carte (type, adresse,...) |
+| 16 | 16  | paramètres spécifiques au type de carte |
+| 32 | 16  | typiquement, un registre par pin pour analog ou pour PWM |
+| 48 | 16  | typiquement, un registre par pin pour analog ou pour PWM |
+| 64 | 64 ou 192 | divers |
+
+
 # Carte Principale
