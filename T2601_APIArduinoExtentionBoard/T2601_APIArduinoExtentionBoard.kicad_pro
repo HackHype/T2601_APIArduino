@@ -820,7 +820,7 @@
       {
         "filename": "T2601_APIArduinoExtentionBoard.kicad_sch",
         "name": "T2601_APIArduinoExtentionBoard",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "ff48760a-7750-46de-b467-7e55c22e4653"
       }
     ],
     "used_designators": "",
@@ -829,7 +829,7 @@
   "sheets": [
     [
       "ff48760a-7750-46de-b467-7e55c22e4653",
-      "Root"
+      "T2601_APIArduinoExtentionBoard"
     ]
   ],
   "text_variables": {},
