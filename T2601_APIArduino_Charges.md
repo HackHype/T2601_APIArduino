@@ -35,38 +35,38 @@ Led rouge sur la dernière broche libre de l’arduino
 
 | Pin | Fonction |
 |---|---|
-| 1	 |  |
+| 1	 | Mezz 2 (PWM) |
 | 2	 | Mezz 2 (PWM) |
-| 3	 | Alimentation |
+| 3	 |  |
 | 4	 | Alimentation |
 | 5	 | Alimentation |
-| 6	 | Alimentation |
+| 6	 |  |
 | 7	 | Crystal |
 | 8	 | Crystal |
 | 9	 | Mezz 2 (PWM) |
-| 10 | 	Mezz 2 (PWM) |
+| 10 | Mezz 2 (PWM) |
 | 11 | 	 |
 | 12 | 	 |
-| 13 | 	Mezz 2 (PWM) |
-| 14 | 	Mezz 2 (PWM) |
-| 15 | 	Programmation |
-| 16 | 	Programation |
-| 17 | 	Programation |
-| 18 | 	Alimentation |
-| 19 | 	Mezz 1 (Analog) |
-| 20 | 	Alimentation (Aref) |
-| 21 | 	Alimentation |
-| 22 | 	Mezz 1 (Analog) |
-| 23 | 	Mezz 1 (Analog) |
-| 24 | 	Mezz 1 (Analog) |
-| 25 | 	Mezz 1 (Analog) |
-| 26 | 	Mezz 1 (Analog) |
-| 27 | 	Mezz 1 (Analog) |
-| 28 | 	Mezz 1 (Analog) |
-| 29 | 	Reset |
-| 30 | 	Communication |
-| 31 | 	Communication |
-| 32 | 	 |
+| 13 | Mezz 2 (PWM) |
+| 14 | Mezz 2 (PWM) |
+| 15 | Programmation |
+| 16 | Programation |
+| 17 | Programation |
+| 18 | Alimentation |
+| 19 | Mezz 1 (Analog) |
+| 20 | Alimentation (Aref) |
+| 21 | Alimentation |
+| 22 | Mezz 1 (Analog) |
+| 23 | Mezz 1 (Analog) |
+| 24 | Mezz 1 (Analog) |
+| 25 | Mezz 1 (Analog) |
+| 26 | Mezz 1 (Analog) |
+| 27 | Mezz 1 (Analog) |
+| 28 | Mezz 1 (Analog) |
+| 29 | Reset |
+| 30 | Communication |
+| 31 | Communication |
+| 32 | Mezz 2 (PWM) |
 
 ## Mécanique
 
