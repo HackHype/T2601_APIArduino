@@ -4,7 +4,7 @@
 
 ## Généralité
 
-Basé sur microcontroler Atmega 328P  
+Basé sur microcontroler Atmega 328PB
 Emplacement pour 2 mezanine.
 
 ## Connectivité
