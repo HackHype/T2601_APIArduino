@@ -36,7 +36,7 @@ Led rouge sur la dernière broche libre de l’arduino
 | Pin | Fonction |
 |---|---|
 | 1	 | Mezz 2 (PWM) |
-| 2	 | Mezz 2 (PWM) |
+| 2	 |  |
 | 3	 |  |
 | 4	 | Alimentation |
 | 5	 | Alimentation |
