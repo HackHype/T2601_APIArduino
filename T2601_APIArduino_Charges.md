@@ -1,12 +1,11 @@
-T2601 API Arduino
-=================
+# T2601 API Arduino
 
 # Carte Extension
 
 ## Généralité
 
 Basé sur microcontroler Atmega 328P  
-Emplacement pour 2 mezanine.  
+Emplacement pour 2 mezanine.
 
 ## Connectivité
 
@@ -21,7 +20,7 @@ Alimentation puissance par borniers à vis
 16 Sortie puissance par borniers à vis, 1 bornier par mezzanine  
 Connexion pour la programmation par pin socket 2x3  
 Connexion pour le debug (SoftwareSerial) par pin socket 1x4  
-1x GND 1x TX 1x RX 1x statut  
+1x GND 1x TX 1x RX 1x statut
 
 ## Fonctionnalité
 
@@ -29,44 +28,44 @@ Led vertes sur chacune des alimentations
 Led jaune sur pin prog  
 Led jaune sur RX TX  
 Led vertes sur chacune des I/O  
-Led rouge sur la dernière broche libre de l’arduino  
+Led rouge sur la dernière broche libre de l’arduino
 
 ## Pinout µc
 
-| Pin | Fonction |
-|---|---|
-| 1	 | Mezz 2 (PWM) |
-| 2	 |  |
-| 3	 |  |
-| 4	 | Alimentation |
-| 5	 | Alimentation |
-| 6	 |  |
-| 7	 | Crystal |
-| 8	 | Crystal |
-| 9	 | Mezz 2 (PWM) |
-| 10 | Mezz 2 (PWM) |
-| 11 | 	 |
-| 12 | 	 |
-| 13 | Mezz 2 (PWM) |
-| 14 | Mezz 2 (PWM) |
-| 15 | Programmation |
-| 16 | Programation |
-| 17 | Programation |
-| 18 | Alimentation |
-| 19 | Mezz 1 (Analog) |
-| 20 | Alimentation (Aref) |
-| 21 | Alimentation |
-| 22 | Mezz 1 (Analog) |
-| 23 | Mezz 1 (Analog) |
-| 24 | Mezz 1 (Analog) |
-| 25 | Mezz 1 (Analog) |
-| 26 | Mezz 1 (Analog) |
-| 27 | Mezz 1 (Analog) |
-| 28 | Mezz 1 (Analog) |
-| 29 | Reset |
-| 30 | Communication |
-| 31 | Communication |
-| 32 | Mezz 2 (PWM) |
+|Pin|Fonction|
+|-|-|
+|1|Mezz 1 (PWM)|
+|2||
+|3||
+|4|Alimentation|
+|5|Alimentation|
+|6||
+|7|Crystal|
+|8|Crystal|
+|9|Mezz 1 (PWM)|
+|10|Mezz 1 (PWM)|
+|11||
+|12||
+|13|Mezz 1 (PWM)|
+|14|Mezz 1 (PWM)|
+|15|Programmation|
+|16|Programation|
+|17|Programation|
+|18|Alimentation|
+|19|Mezz 2 (Analog)|
+|20|Alimentation (Aref)|
+|21|Alimentation|
+|22|Mezz 2 (Analog)|
+|23|Mezz 2 (Analog)|
+|24|Mezz 2 (Analog)|
+|25|Mezz 2 (Analog)|
+|26|Mezz 2 (Analog)|
+|27|Mezz 2 (Analog)|
+|28|Mezz 2 (Analog)|
+|29|Reset|
+|30|Communication|
+|31|Communication|
+|32|Mezz 1 (PWM)|
 
 ## Mécanique
 
@@ -75,67 +74,77 @@ Largeur 60, Hauteur 90 à définir
 
 # Mezanine
 
-1 connecteur pin header male 1x10 
+1 connecteur pin header male 1x10
 1x GND, 1x 5V, 8x logique,  
 1 connecteur pin socket femelle 1x10  
-1x GND, 1x 12V, 8x puissance,  
+1x GND, 1x 12V, 8x puissance,
 
 ## Types
-- OUTPUT
-  - ULN2803
-  - MIC2981
-  - Mosfet 
-  - Optocoupleur
-  - Pont (5V direct)
-- INPUT
-  - Pont diviseur 12/24V
-  - Pont (5V direct)
-  - Optocoupleur (autre sens)
-- IO 
-  - Loconet (nécessite ICP pin)
-  - Carte SD + RTC (nécessite SPI ou I2C)
-  - RS485 (nécessite Software serial)
-  - FRAM (nécessite SPI ou I2C)
+
+* OUTPUT
+
+  * ULN2803
+  * MIC2981
+  * Mosfet
+  * Optocoupleur
+  * Pont (5V direct)
+* INPUT
+
+  * Pont diviseur 12/24V
+  * Pont (5V direct)
+  * Optocoupleur (autre sens)
+* IO
+
+  * Loconet (nécessite ICP pin)
+  * Carte SD + RTC (nécessite SPI ou I2C)
+  * RS485 (nécessite Software serial)
+  * FRAM (nécessite SPI ou I2C)
 
 ## communication (idée)
 
 Commandes envoyée ddans le Bus
-| Champs | Taille \[bit\] |
-|---|---|
-| Contrôle | 8 | 
-| Adresse noeud | 8 |
-| Adresse registre | 8 |
-| longeur donnée | 8 |
-| Donnée | 8 - 2048 |
+
+|Champs|Taille \[bit]|
+|-|-|
+|Contrôle|8|
+|Adresse noeud|8|
+|Adresse registre|8|
+|longeur donnée|8|
+|Donnée|8 - 2048|
 
 Champ contrôles
-| 7  - 4            | 3 - 2                  | 1 - 0    | 
-|---|---|---|
-| version protocole (idée) | destinations spéciales | commande |
+
+|7  - 4|3 - 2|1 - 0|
+|-|-|-|
+|version protocole (idée)|destinations spéciales|commande|
 
 destinations spéciales :
-- Normales
-- Prochain noeud
-- Broadcast (tous)
-- Adresses allongées (idée...)
+
+* Normales
+* Prochain noeud
+* Broadcast (tous)
+* Adresses allongées (idée...)
 
 commandes :
-- Lire
-- Ecrire
-- Annoncer
+
+* Lire
+* Ecrire
+* Annoncer
 
 Adresse de noeud spéciales
 0x00 : maître
 
 avoir un groupe de potentiellement 127 ou 256 "registre" qui peuvent être lu ou écrit
 
-| premier | nombre | fonciton |
-|---|---|---|
-| 0  | 16  | paramètre généraux de la carte (type, adresse,...) |
-| 16 | 16  | paramètres spécifiques au type de carte |
-| 32 | 16  | typiquement, un registre par pin pour analog ou pour PWM |
-| 48 | 16  | typiquement, un registre par pin pour analog ou pour PWM |
-| 64 | 64 ou 192 | divers |
+|premier|nombre|fonciton|
+|-|-|-|
+|0|16|paramètre généraux de la carte (type, adresse,...)|
+|16|16|paramètres spécifiques au type de carte|
+|32|16|typiquement, un registre par pin pour analog ou pour PWM|
+|48|16|typiquement, un registre par pin pour analog ou pour PWM|
+|64|64 ou 192|divers|
+
 
 
 # Carte Principale
+
