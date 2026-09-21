@@ -1,5 +1,5 @@
 # T2601 — API Arduino
-> Modular I/O expansion board based on the ATmega328P.
+> Modular I/O expansion board based on the ATmega328PB.
 
 ![ATmega328P](https://img.shields.io/badge/MCU-ATmega328P-blue)
 ![Arduino ISP](https://img.shields.io/badge/Prog-Arduino_ISP-green)
