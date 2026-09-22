@@ -824,7 +824,7 @@
         "uuid": "ff48760a-7750-46de-b467-7e55c22e4653"
       }
     ],
-    "used_designators": "D27-32,#PWR96-102,R26-31",
+    "used_designators": "TP2",
     "variants": []
   },
   "sheets": [

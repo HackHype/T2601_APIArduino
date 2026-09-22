@@ -9046,6 +9046,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 190.5) (xy 38.1 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c21a05b-549b-4a61-a3f1-6051379acd0d")
+	)
+	(wire
+		(pts
 			(xy 256.54 116.84) (xy 261.62 116.84)
 		)
 		(stroke
@@ -9593,6 +9603,16 @@
 			(type default)
 		)
 		(uuid "4c01128f-a24d-424d-961e-1f85a5bde01d")
+	)
+	(wire
+		(pts
+			(xy 38.1 190.5) (xy 38.1 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e9b8dd7-acc5-496c-aab9-1b24fcabfaa4")
 	)
 	(wire
 		(pts
@@ -25966,7 +25986,7 @@
 	)
 	(global_label "RX"
 		(shape input)
-		(at 24.13 69.85 90)
+		(at 34.29 69.85 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -25976,7 +25996,7 @@
 		)
 		(uuid "3cdb0bac-b0b6-4142-abb0-0b64a4273d46")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 24.13 64.3853 90)
+			(at 34.29 64.3853 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26038,7 +26058,7 @@
 	)
 	(global_label "TX"
 		(shape input)
-		(at 34.29 69.85 90)
+		(at 24.13 69.85 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -26048,7 +26068,7 @@
 		)
 		(uuid "45be0a3f-33da-4c31-953e-b3071f227619")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 34.29 64.6877 90)
+			(at 24.13 64.6877 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26673,6 +26693,30 @@
 		(uuid "9aecf715-07f4-4011-8cb7-9e95e15296f2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 133.3718 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "RX"
+		(shape input)
+		(at 39.37 190.5 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9be43428-26fd-4ba6-b16a-508c961754c8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 44.8347 190.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45846,6 +45890,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 38.1 186.69 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bcd927e0-3165-4ba7-85ff-6410c4370dbf")
+		(property "Reference" "TP2"
+			(at 40.64 182.1179 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 40.64 184.6579 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile"
+			(at 43.18 186.69 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 43.18 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 38.1 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "df66dc42-e16c-4b50-9ae5-51db5944a8a3")
+		)
+		(instances
+			(project "T2601_APIArduinoExtentionBoard"
+				(path "/ff48760a-7750-46de-b467-7e55c22e4653"
+					(reference "TP2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 149.86 365.76 0)
 		(unit 1)
@@ -48836,9 +48958,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile"
 			(at 62.23 132.08 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
