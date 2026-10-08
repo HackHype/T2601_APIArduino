@@ -32,40 +32,44 @@ Led rouge sur la dernière broche libre de l’arduino
 
 ## Pinout µc
 
-|Pin|Fonction|
-|-|-|
-|1|Mezz 1 (PWM)|
-|2||
-|3||
-|4|Alimentation|
-|5|Alimentation|
-|6||
-|7|Crystal|
-|8|Crystal|
-|9|Mezz 1 (PWM)|
-|10|Mezz 1 (PWM)|
-|11||
-|12||
-|13|Mezz 1 (PWM)|
-|14|Mezz 1 (PWM)|
-|15|Programmation|
-|16|Programation|
-|17|Programation|
-|18|Alimentation|
-|19|Mezz 2 (Analog)|
-|20|Alimentation (Aref)|
-|21|Alimentation|
-|22|Mezz 2 (Analog)|
-|23|Mezz 2 (Analog)|
-|24|Mezz 2 (Analog)|
-|25|Mezz 2 (Analog)|
-|26|Mezz 2 (Analog)|
-|27|Mezz 2 (Analog)|
-|28|Mezz 2 (Analog)|
-|29|Reset|
-|30|Communication|
-|31|Communication|
-|32|Mezz 1 (PWM)|
+|Pin|Fonction|Utilisation|
+|-|-|-|
+|1 |PWM        |Mezz 1 (PWM)|
+|2 |           |led (couleur à définir) + generale debug pin|
+|3 |SDA +      |led (couleur à définir)|
+|4 |VCC        |Alimentation|
+|5 |GND        |Alimentation|
+|6 |SCL        |led (couleur à définir)|
+|7 |XTAL1      |Crystal|
+|8 |XTAL2      |Crystal|
+|9 |PWM        |Mezz 1 (PWM)|
+|10|PWM AIN0   |Mezz 1 (PWM)|
+|11|AIN1       |Mezz 1|
+|12|           |Mezz 1|
+|13|PWM        |Mezz 1 (PWM)|
+|14|PWM SS     |Mezz 1 (PWM)|
+|15|MOSI TXD1 +|Programmation|
+|16|MISO RXD1  |Programmation|
+|17|SCK        |Programmation|
+|18|AVCC       |Alimentation|
+|19|ADC6 SS1   |Mezz 2 (Analog)|
+|20|AREF       |Alimentation|
+|21|GND        |Alimentation|
+|22|ADC7 MOSI1 |Mezz 2 (Analog)|
+|23|ADC0 MISO1 |Mezz 2 (Analog)|
+|24|ADC1 SCK1  |Mezz 2 (Analog)|
+|25|ADC2       |Mezz 2 (Analog)|
+|26|ADC3       |Mezz 2 (Analog)|
+|27|ADC4 SDA   |Mezz 2 (Analog)|
+|28|ADC5 SCL   |Mezz 2 (Analog)|
+|29|Reset||
+|30|RXD PWM    |Communication|
+|31|TXD PWM    |Communication|
+|32|PWM +      |Mezz 1 (PWM)|
+
+_+ : d'autre fonction sont disponibles mais pas utilisées_
+
+_les interruptions ne sont pas notées dans les fonctions_
 
 ## Mécanique
 
