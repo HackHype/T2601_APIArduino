@@ -31117,7 +31117,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2a62be47-37e6-4357-8307-2ca774d9ca93")
-		(property "Reference" "J11"
+		(property "Reference" "J30"
 			(at 252.095 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31185,7 +31185,7 @@
 		(instances
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653"
-					(reference "J11")
+					(reference "J30")
 					(unit 1)
 				)
 			)
@@ -31663,7 +31663,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b7a3a88-dc0d-4738-a486-fe75547f36d1")
-		(property "Reference" "J8"
+		(property "Reference" "J11"
 			(at 109.22 44.45 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31731,7 +31731,7 @@
 		(instances
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653"
-					(reference "J8")
+					(reference "J11")
 					(unit 1)
 				)
 			)
@@ -33395,7 +33395,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39eaf06c-d082-41f3-a27b-596cb7e513ae")
-		(property "Reference" "J2"
+		(property "Reference" "J4"
 			(at 39.37 251.46 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33481,7 +33481,7 @@
 		(instances
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653"
-					(reference "J2")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -33735,7 +33735,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b0adc15-ab26-406c-ba3f-924c7d411316")
-		(property "Reference" "J4"
+		(property "Reference" "J2"
 			(at 74.93 245.11 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33821,7 +33821,7 @@
 		(instances
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653"
-					(reference "J4")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -37247,7 +37247,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "61c0dce6-3dca-4611-9b42-15421d1738a0")
-		(property "Reference" "J15"
+		(property "Reference" "J20"
 			(at 165.1 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37351,7 +37351,7 @@
 		(instances
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653"
-					(reference "J15")
+					(reference "J20")
 					(unit 1)
 				)
 			)
@@ -37929,8 +37929,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "680518b4-6498-4a5c-b7eb-2144bd891178")
-		(property "Reference" "J13"
-			(at 252.095 121.92 0)
+		(property "Reference" "J31"
+			(at 251.46 104.902 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -37940,7 +37940,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 252.095 119.38 0)
+			(at 262.382 104.902 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -37997,7 +37997,7 @@
 		(instances
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653"
-					(reference "J13")
+					(reference "J31")
 					(unit 1)
 				)
 			)
@@ -41239,7 +41239,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8e0a59b4-8169-4e99-b08b-b048cd4b0b49")
-		(property "Reference" "J9"
+		(property "Reference" "J21"
 			(at 213.36 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41343,7 +41343,7 @@
 		(instances
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653"
-					(reference "J9")
+					(reference "J21")
 					(unit 1)
 				)
 			)
@@ -44785,7 +44785,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ab637dff-b1f1-4c3d-8436-70c3f84baca2")
-		(property "Reference" "J7"
+		(property "Reference" "J10"
 			(at 114.3 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44859,7 +44859,7 @@
 		(instances
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653"
-					(reference "J7")
+					(reference "J10")
 					(unit 1)
 				)
 			)
