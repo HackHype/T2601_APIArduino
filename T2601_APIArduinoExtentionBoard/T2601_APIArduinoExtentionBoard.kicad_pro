@@ -255,7 +255,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "V1.0"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -847,6 +847,14 @@
     [
       "ff48760a-7750-46de-b467-7e55c22e4653",
       "T2601_APIArduinoExtentionBoard"
+    ],
+    [
+      "999e3a3a-93e7-4d03-975a-a8ff39475407",
+      "T2601_APIArduinoExtentionBoard_Microcontroleur"
+    ],
+    [
+      "e5914230-d93f-4f7d-8e7c-6d87f4b171bf",
+      "T2601_APIArduinoExtentionBoard_Programmation"
     ]
   ],
   "text_variables": {},
