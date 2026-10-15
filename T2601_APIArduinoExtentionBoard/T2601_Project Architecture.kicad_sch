@@ -1,0 +1,989 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "43756dca-f8f6-4179-bbe2-5af9585c666d")
+	(paper "A3")
+	(title_block
+		(title "Project Architecture")
+		(date "Last Modified Date")
+		(rev "V1.0")
+		(company "JGY R&D")
+	)
+	(lib_symbols)
+	(arc
+		(start 243.86 129.52)
+		(mid 244.2349 128.6249)
+		(end 245.13 128.25)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "055071ba-7216-47dc-af92-e615f4e56e85")
+	)
+	(arc
+		(start 299.72 92.71)
+		(mid 300.0949 91.8149)
+		(end 300.99 91.44)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "0d484faa-7355-4e8d-9466-0f9c01b5dd90")
+	)
+	(arc
+		(start 299.74 66.02)
+		(mid 298.9961 67.8161)
+		(end 297.2 68.56)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "0fddb137-dbcd-43fb-8d71-6d3d9512dd79")
+	)
+	(arc
+		(start 297.18 76.2)
+		(mid 298.9702 76.9498)
+		(end 299.72 78.74)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "262a3172-0cb2-4c04-9381-5602f86751ca")
+	)
+	(arc
+		(start 195.58 55.88)
+		(mid 195.2051 56.7751)
+		(end 194.31 57.15)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "463357f7-f9d2-46fa-b0b6-a6251e6ce150")
+	)
+	(arc
+		(start 301.01 55.86)
+		(mid 300.1149 55.4851)
+		(end 299.74 54.59)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "46372860-8dd9-45e2-b759-b478cc06bd15")
+	)
+	(arc
+		(start 195.58 78.74)
+		(mid 196.3239 76.9439)
+		(end 198.12 76.2)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "46d20fea-373f-4f9a-9ef4-4392fcc06a3e")
+	)
+	(arc
+		(start 241.32 149.84)
+		(mid 243.1102 150.5898)
+		(end 243.86 152.38)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "5b32f06b-d49d-47e4-b5a3-617642721d48")
+	)
+	(arc
+		(start 198.12 106.68)
+		(mid 196.3298 105.9302)
+		(end 195.58 104.14)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "60d40bb6-72a1-4703-82f1-1ffe89aba2cb")
+	)
+	(arc
+		(start 297.2 43.16)
+		(mid 298.9902 43.9098)
+		(end 299.74 45.7)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "699279da-2bb5-4ff0-8912-7d0025f0400d")
+	)
+	(arc
+		(start 299.72 104.14)
+		(mid 298.9761 105.9361)
+		(end 297.18 106.68)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "6da678aa-6c43-46a9-a75f-40029dcbc0b1")
+	)
+	(arc
+		(start 241.32 115.55)
+		(mid 243.1102 116.2998)
+		(end 243.86 118.09)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "73f6865c-4f24-4b13-a9e7-cf8bfa00ee32")
+	)
+	(arc
+		(start 195.58 90.17)
+		(mid 195.2051 91.0651)
+		(end 194.31 91.44)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "8aefa821-9f32-4782-95fd-a24b05aa99ab")
+	)
+	(arc
+		(start 243.86 172.7)
+		(mid 243.1161 174.4961)
+		(end 241.32 175.24)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "910a3e0e-bd64-4dfd-8443-caa6e7f0ef44")
+	)
+	(arc
+		(start 194.31 91.44)
+		(mid 195.2051 91.8149)
+		(end 195.58 92.71)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "91b7dca5-1685-4bc0-a7ac-be07555235f8")
+	)
+	(arc
+		(start 194.31 57.15)
+		(mid 195.2051 57.5249)
+		(end 195.58 58.42)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "a134b516-cfaf-437e-b6e0-fd4fe5086d29")
+	)
+	(arc
+		(start 243.86 138.41)
+		(mid 243.1161 140.2061)
+		(end 241.32 140.95)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "a8227c96-ad98-472e-856e-98a46a3c9121")
+	)
+	(arc
+		(start 243.86 163.81)
+		(mid 244.2349 162.9149)
+		(end 245.13 162.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "bdbd3e77-8b01-4505-baad-ab618218e122")
+	)
+	(arc
+		(start 245.13 128.25)
+		(mid 244.2349 127.8751)
+		(end 243.86 126.98)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "cc4cf7fb-4bd9-4be9-81d7-4f1f2d80469e")
+	)
+	(arc
+		(start 195.58 44.45)
+		(mid 196.3239 42.6539)
+		(end 198.12 41.91)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "d1fe5f0f-24cb-4f3d-baf1-1b36c0a6f68e")
+	)
+	(arc
+		(start 198.12 72.39)
+		(mid 196.3298 71.6402)
+		(end 195.58 69.85)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "d8a608aa-d710-4d73-9273-2b52adac6230")
+	)
+	(arc
+		(start 245.13 162.54)
+		(mid 244.2349 162.1651)
+		(end 243.86 161.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "dc84e46b-88cd-45ee-800e-b51a23437fb5")
+	)
+	(arc
+		(start 299.74 57.13)
+		(mid 300.1149 56.2349)
+		(end 301.01 55.86)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "dd3049e7-80f0-4dbd-a783-3b2fdfce5d3f")
+	)
+	(arc
+		(start 300.99 91.44)
+		(mid 300.0949 91.0651)
+		(end 299.72 90.17)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "eb804ca7-5ee9-4b11-80c9-bfc18d8c7f8a")
+	)
+	(text "Page 6"
+		(exclude_from_sim no)
+		(at 292.1 100.33 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+				(color 20 60 40 1)
+			)
+			(justify right bottom)
+			(href "#6")
+		)
+		(uuid "257e3e09-9215-4f10-8cb9-73dcac986f9a")
+	)
+	(text "Page 8"
+		(exclude_from_sim no)
+		(at 292.1 64.77 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+				(color 100 70 50 1)
+			)
+			(justify right bottom)
+			(href "#8")
+		)
+		(uuid "79326b58-bfcb-40fa-a378-3a93e68b8dd1")
+	)
+	(text "Page 4"
+		(exclude_from_sim no)
+		(at 236.22 66.04 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+				(color 20 60 40 1)
+			)
+			(justify right bottom)
+			(href "#4")
+		)
+		(uuid "978bb74e-ca07-4b21-b2dc-19b812f717e9")
+	)
+	(text "Page 5"
+		(exclude_from_sim no)
+		(at 236.22 100.33 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+				(color 20 60 40 1)
+			)
+			(justify right bottom)
+			(href "#5")
+		)
+		(uuid "c01d5fbe-978d-466b-9a7f-f714d7b0a3ff")
+	)
+	(text "Page 9\n"
+		(exclude_from_sim no)
+		(at 236.22 137.16 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+				(color 100 70 50 1)
+			)
+			(justify right bottom)
+			(href "#9")
+		)
+		(uuid "c54c21a6-b82f-4883-adfa-9cf31abe82f0")
+	)
+	(text "Page 7"
+		(exclude_from_sim no)
+		(at 236.22 171.45 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+				(color 100 70 50 1)
+			)
+			(justify right bottom)
+			(href "#7")
+		)
+		(uuid "c58a270b-8de1-40f7-98ca-0af0a4d7858d")
+	)
+	(text_box "Programation MCU"
+		(exclude_from_sim no)
+		(at 302.26 86.36 0)
+		(size 26.035 9.0206)
+		(margins 1.4287 1.4287 1.4287 1.4287)
+		(stroke
+			(width -0.0001)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.905 1.905)
+				(thickness 0.381)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+			(justify top)
+		)
+		(uuid "42a6cdf6-87d9-43d3-92fc-034f6ca12f7d")
+	)
+	(text_box "Micro Controleur"
+		(exclude_from_sim no)
+		(at 167.64 54.61 0)
+		(size 26.035 9.0206)
+		(margins 1.4287 1.4287 1.4287 1.4287)
+		(stroke
+			(width -0.0001)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.905 1.905)
+				(thickness 0.381)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+			(justify top)
+		)
+		(uuid "51bc3fdc-86f1-4742-b7d8-53f1faaab343")
+	)
+	(text_box "Inter Card Communication"
+		(exclude_from_sim no)
+		(at 304.8 50.8 0)
+		(size 30.48 15.4214)
+		(margins 1.4287 1.4287 1.4287 1.4287)
+		(stroke
+			(width -0.0001)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.905 1.905)
+				(thickness 0.381)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+			(justify left top)
+		)
+		(uuid "77f3fda3-6bef-4c58-a385-2c8a854f62bd")
+	)
+	(text_box "[${#}] ${TITLE}"
+		(exclude_from_sim no)
+		(at 139.7 9.8086 0)
+		(size 172.72 38.4514)
+		(margins 5.9999 5.9999 5.9999 5.9999)
+		(stroke
+			(width -0.0001)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 8 8)
+				(thickness 1.2)
+				(bold yes)
+				(color 162 22 34 1)
+			)
+		)
+		(uuid "7fa5cc40-6c97-487c-9cc7-412504f68533")
+	)
+	(text_box "Power \nCapacitor\nGround management"
+		(exclude_from_sim no)
+		(at 246.38 121.92 0)
+		(size 30.48 15.4214)
+		(margins 1.4287 1.4287 1.4287 1.4287)
+		(stroke
+			(width -0.0001)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.905 1.905)
+				(thickness 0.381)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+			(justify left top)
+		)
+		(uuid "ea2adac5-d133-46b2-a7ff-14a70e2ad344")
+	)
+	(text_box "Mounting Holes\nTest Points"
+		(exclude_from_sim no)
+		(at 246.38 156.21 0)
+		(size 30.48 15.4214)
+		(margins 1.4287 1.4287 1.4287 1.4287)
+		(stroke
+			(width -0.0001)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.905 1.905)
+				(thickness 0.381)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+			(justify left top)
+		)
+		(uuid "f58bb592-d8ac-451f-9aaf-baab6d8db624")
+	)
+	(text_box "Micro Controleur"
+		(exclude_from_sim no)
+		(at 167.64 88.9 0)
+		(size 26.035 9.0206)
+		(margins 1.4287 1.4287 1.4287 1.4287)
+		(stroke
+			(width -0.0001)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.905 1.905)
+				(thickness 0.381)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+			(justify top)
+		)
+		(uuid "fa90e759-ee5a-49e2-99a9-f6ff3f135c5f")
+	)
+	(polyline
+		(pts
+			(xy 195.58 58.42) (xy 195.58 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e3c70a2-22df-46ef-a52f-0f821498dc0c")
+	)
+	(polyline
+		(pts
+			(xy 195.58 55.88) (xy 195.58 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41045457-e885-4cf4-93f2-cdba80791e7b")
+	)
+	(polyline
+		(pts
+			(xy 299.72 57.15) (xy 299.72 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58e219ed-cc2c-48c0-a6f8-f13723abd690")
+	)
+	(polyline
+		(pts
+			(xy 243.84 118.11) (xy 243.84 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f799f7d-3b4c-429a-be80-1688600486e9")
+	)
+	(polyline
+		(pts
+			(xy 243.84 163.83) (xy 243.84 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64e4a888-68eb-4d3c-8091-b13dc2616700")
+	)
+	(polyline
+		(pts
+			(xy 195.58 90.17) (xy 195.58 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6cb1f631-f156-4916-9f0e-1eab52324f35")
+	)
+	(polyline
+		(pts
+			(xy 299.72 92.71) (xy 299.72 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77b948b5-4e29-4fa6-8ef0-0d7fd8f72576")
+	)
+	(polyline
+		(pts
+			(xy 195.58 92.71) (xy 195.58 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9bb05b4a-eb53-4519-92a3-3092187da92b")
+	)
+	(polyline
+		(pts
+			(xy 243.84 152.4) (xy 243.84 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9cb22670-f378-4e48-8ae3-d224b59c7253")
+	)
+	(polyline
+		(pts
+			(xy 299.72 45.72) (xy 299.72 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3570ebc-24cf-480d-ac72-ff5c159baed0")
+	)
+	(polyline
+		(pts
+			(xy 299.72 90.17) (xy 299.72 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4935441-390e-4833-a7ff-6ea6dd47f0e8")
+	)
+	(polyline
+		(pts
+			(xy 243.84 129.54) (xy 243.84 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f890bb63-7be7-434c-9d54-8102b0d37829")
+	)
+	(sheet
+		(at 200.66 81.28)
+		(size 36.83 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 128 255 128 0.5)
+		)
+		(uuid "20168338-9013-4616-bb52-84e9a2518e25")
+		(property "Sheetname" "MCU - IO"
+			(at 200.66 80.2509 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.905 1.905)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "T2601_MCU_IO.kicad_sch"
+			(at 200.66 102.1846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "T2601_APIArduinoExtentionBoard"
+				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 256.54 81.28)
+		(size 36.83 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 128 255 128 0.5)
+		)
+		(uuid "24664caa-e0c0-4ea4-b2a3-fac74f670bd6")
+		(property "Sheetname" "MCU - Prog"
+			(at 256.54 80.2509 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.905 1.905)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "T2601_MCU_Prog.kicad_sch"
+			(at 256.54 102.1846 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "T2601_APIArduinoExtentionBoard"
+				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 256.54 45.72)
+		(size 36.83 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 91 74 74 0.5019607843)
+		)
+		(uuid "5726788d-a57f-47a2-828f-c65a04aa6015")
+		(property "Sheetname" "Com Bus"
+			(at 256.54 44.6909 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.905 1.905)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "T2601_BusInterCarte.kicad_sch"
+			(at 256.54 66.6246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "T2601_APIArduinoExtentionBoard"
+				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 200.66 46.99)
+		(size 36.83 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 128 255 128 0.5)
+		)
+		(uuid "7d5a1283-086b-46b0-8df7-a9850521fb5e")
+		(property "Sheetname" "MCU"
+			(at 200.66 45.9609 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.905 1.905)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "T2601_MCU.kicad_sch"
+			(at 200.66 67.8946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KDT_Hierarchical"
+				(path "/0650c7a8-acba-429c-9f8e-eec0baf0bc1c/fede4c36-00cc-4d3d-b71c-5243ba232202"
+					(page "4")
+				)
+			)
+			(project "T2601_APIArduinoExtentionBoard"
+				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 200.66 152.4)
+		(size 36.83 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 91 74 74 0.5019607843)
+		)
+		(uuid "96118754-a04d-432b-9593-d5fa1f3fdf58")
+		(property "Sheetname" "Misc"
+			(at 200.66 151.3709 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.905 1.905)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "T2601_Misc.kicad_sch"
+			(at 200.66 173.3046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "T2601_APIArduinoExtentionBoard"
+				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 200.66 118.11)
+		(size 36.83 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 200 0 0.502)
+		)
+		(uuid "e6015f1e-cbce-46f4-85e1-3d5463a17dc1")
+		(property "Sheetname" "Power"
+			(at 200.66 117.0809 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.905 1.905)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "T2601_Power.kicad_sch"
+			(at 200.66 139.0146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KDT_Hierarchical"
+				(path "/0650c7a8-acba-429c-9f8e-eec0baf0bc1c/fede4c36-00cc-4d3d-b71c-5243ba232202"
+					(page "5")
+				)
+			)
+			(project "T2601_APIArduinoExtentionBoard"
+				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202"
+					(page "9")
+				)
+			)
+		)
+	)
+)

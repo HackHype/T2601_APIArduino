@@ -821,7 +821,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "kicad-embed://KDT_Template_Fab.kicad_wks",
     "plot_directory": "",
     "reuse_designators": true,
     "space_save_all_events": true,
@@ -840,7 +840,7 @@
         "uuid": "ff48760a-7750-46de-b467-7e55c22e4653"
       }
     ],
-    "used_designators": "",
+    "used_designators": "D57-72,#PWR3-4,#PWR19-21,#PWR37,#PWR47,#PWR73,#PWR187-208,H5-8,TP5-8,R55-70,J29-36",
     "variants": []
   },
   "sheets": [
@@ -849,15 +849,52 @@
       "T2601_APIArduinoExtentionBoard"
     ],
     [
-      "999e3a3a-93e7-4d03-975a-a8ff39475407",
-      "T2601_APIArduinoExtentionBoard_Microcontroleur"
+      "de68a101-7eef-4ba8-abb4-14d03adb087f",
+      "Block Diagram"
     ],
     [
-      "e5914230-d93f-4f7d-8e7c-6d87f4b171bf",
-      "T2601_APIArduinoExtentionBoard_Programmation"
+      "fede4c36-00cc-4d3d-b71c-5243ba232202",
+      "Project Architecture"
+    ],
+    [
+      "7d5a1283-086b-46b0-8df7-a9850521fb5e",
+      "MCU"
+    ],
+    [
+      "20168338-9013-4616-bb52-84e9a2518e25",
+      "MCU - IO"
+    ],
+    [
+      "24664caa-e0c0-4ea4-b2a3-fac74f670bd6",
+      "MCU - Prog"
+    ],
+    [
+      "96118754-a04d-432b-9593-d5fa1f3fdf58",
+      "Misc"
+    ],
+    [
+      "5726788d-a57f-47a2-828f-c65a04aa6015",
+      "Com Bus"
+    ],
+    [
+      "e6015f1e-cbce-46f4-85e1-3d5463a17dc1",
+      "Power"
+    ],
+    [
+      "e7c91631-be85-488a-af7a-f2a810f3fbfe",
+      "Revision History"
     ]
   ],
-  "text_variables": {},
+  "text_variables": {
+    "BOARD_NAME": "APIArduino_ExtentionBoard",
+    "COMPANY": "JGY R&D",
+    "DESIGNER": "Jules Grucy",
+    "PROJECT_NAME": "T2601_APIArduino",
+    "RELEASE_DATE": "-",
+    "REVIEWER": "Damien De Pascale",
+    "REVISION": "V1.0",
+    "STATE": "PRELIMINARY"
+  },
   "tuning_profiles": {
     "meta": {
       "version": 0
