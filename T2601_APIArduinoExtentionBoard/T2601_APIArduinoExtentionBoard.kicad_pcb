@@ -1268,7 +1268,7 @@
 	(footprint "PCM_JLCPCB:R_0402"
 		(layer "F.Cu")
 		(uuid "0764a09e-7b22-449a-98e0-3f7d7c8cc965")
-		(at 220.428 91.826)
+		(at 173.286 90.614 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R28"
@@ -1281,11 +1281,11 @@
 					(size 0.8 0.8)
 					(thickness 0.15)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1kΩ"
-			(at 0 0.2 0)
+			(at 0 0.199999 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "55e134ce-65aa-48e2-81d1-a0539affcb7e")
@@ -1297,7 +1297,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1310,7 +1310,7 @@
 			)
 		)
 		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/°C ±1% 1kΩ 0402 Chip Resistor - Surface Mount ROHS"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1335,7 +1335,7 @@
 			)
 		)
 		(property "LCSC" "C11702"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1348,7 +1348,7 @@
 			)
 		)
 		(property "Stock" "13226393"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1361,7 +1361,7 @@
 			)
 		)
 		(property "Price" "0.004USD"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1374,7 +1374,7 @@
 			)
 		)
 		(property "Process" "SMT"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1387,7 +1387,7 @@
 			)
 		)
 		(property "Minimum Qty" "20"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1400,7 +1400,7 @@
 			)
 		)
 		(property "Attrition Qty" "10"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1413,7 +1413,7 @@
 			)
 		)
 		(property "Class" "Basic Component"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1426,7 +1426,7 @@
 			)
 		)
 		(property "Category" "Resistors,Chip Resistor - Surface Mount"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1439,7 +1439,7 @@
 			)
 		)
 		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1452,7 +1452,7 @@
 			)
 		)
 		(property "Part" "0402WGF1001TCE"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1465,7 +1465,7 @@
 			)
 		)
 		(property "Resistance" "1kΩ"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1478,7 +1478,7 @@
 			)
 		)
 		(property "Power(Watts)" "62.5mW"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1491,7 +1491,7 @@
 			)
 		)
 		(property "Type" "Thick Film Resistors"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1504,7 +1504,7 @@
 			)
 		)
 		(property "Overload Voltage (Max)" "50V"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1517,7 +1517,7 @@
 			)
 		)
 		(property "Operating Temperature Range" "-55°C~+155°C"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1530,7 +1530,7 @@
 			)
 		)
 		(property "Tolerance" "±1%"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1543,7 +1543,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "±100ppm/°C"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1568,24 +1568,14 @@
 		(solder_mask_margin 0.038)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -0.9 -0.4)
+			(start 0.9 0.4)
 			(end -0.9 0.4)
 			(stroke
 				(width 0.05)
 				(type default)
 			)
 			(layer "F.CrtYd")
-			(uuid "cca18520-4e69-4c9f-b144-73791eb80e1f")
-		)
-		(fp_line
-			(start -0.9 -0.4)
-			(end 0.9 -0.4)
-			(stroke
-				(width 0.05)
-				(type default)
-			)
-			(layer "F.CrtYd")
-			(uuid "cac8ae26-06e9-46b9-96e6-dfc57f8e5216")
+			(uuid "ca890522-4468-4f55-86b8-a9f9acb77f25")
 		)
 		(fp_line
 			(start 0.9 -0.4)
@@ -1598,18 +1588,29 @@
 			(uuid "40982c04-a67f-4a2f-badc-9d806dbe618c")
 		)
 		(fp_line
-			(start 0.9 0.4)
+			(start -0.9 -0.4)
+			(end 0.9 -0.4)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(layer "F.CrtYd")
+			(uuid "cac8ae26-06e9-46b9-96e6-dfc57f8e5216")
+		)
+		(fp_line
+			(start -0.9 -0.4)
 			(end -0.9 0.4)
 			(stroke
 				(width 0.05)
 				(type default)
 			)
 			(layer "F.CrtYd")
-			(uuid "ca890522-4468-4f55-86b8-a9f9acb77f25")
+			(uuid "cca18520-4e69-4c9f-b144-73791eb80e1f")
 		)
-		(fp_rect
-			(start -0.53 -0.27)
-			(end 0.53 0.27)
+		(fp_poly
+			(pts
+				(xy -0.53 -0.27) (xy 0.53 -0.27) (xy 0.53 0.27) (xy -0.53 0.27)
+			)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -1619,7 +1620,7 @@
 			(uuid "1239a387-1aff-4174-9be8-07609dd4b707")
 		)
 		(pad "1" smd roundrect
-			(at -0.5 0)
+			(at -0.499999 0 180)
 			(size 0.56 0.62)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -1628,7 +1629,7 @@
 			(uuid "635ac2ef-ec14-4a74-bbd0-acb7df7db2f8")
 		)
 		(pad "2" smd roundrect
-			(at 0.5 0)
+			(at 0.499999 0 180)
 			(size 0.56 0.62)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -4201,7 +4202,7 @@
 	(footprint "PCM_JLCPCB:R_0402"
 		(layer "F.Cu")
 		(uuid "1c56c137-b6ee-466b-9feb-fc59f54d1746")
-		(at 220.428 95.526)
+		(at 175.826 90.614 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R30"
@@ -4214,11 +4215,11 @@
 					(size 0.8 0.8)
 					(thickness 0.15)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1kΩ"
-			(at 0 0.2 0)
+			(at 0 0.199999 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6d49055c-04e6-429f-a855-e34476c3038b")
@@ -4230,7 +4231,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4243,7 +4244,7 @@
 			)
 		)
 		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/°C ±1% 1kΩ 0402 Chip Resistor - Surface Mount ROHS"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4268,7 +4269,7 @@
 			)
 		)
 		(property "LCSC" "C11702"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4281,7 +4282,7 @@
 			)
 		)
 		(property "Stock" "13226393"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4294,7 +4295,7 @@
 			)
 		)
 		(property "Price" "0.004USD"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4307,7 +4308,7 @@
 			)
 		)
 		(property "Process" "SMT"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4320,7 +4321,7 @@
 			)
 		)
 		(property "Minimum Qty" "20"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4333,7 +4334,7 @@
 			)
 		)
 		(property "Attrition Qty" "10"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4346,7 +4347,7 @@
 			)
 		)
 		(property "Class" "Basic Component"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4359,7 +4360,7 @@
 			)
 		)
 		(property "Category" "Resistors,Chip Resistor - Surface Mount"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4372,7 +4373,7 @@
 			)
 		)
 		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4385,7 +4386,7 @@
 			)
 		)
 		(property "Part" "0402WGF1001TCE"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4398,7 +4399,7 @@
 			)
 		)
 		(property "Resistance" "1kΩ"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4411,7 +4412,7 @@
 			)
 		)
 		(property "Power(Watts)" "62.5mW"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4424,7 +4425,7 @@
 			)
 		)
 		(property "Type" "Thick Film Resistors"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4437,7 +4438,7 @@
 			)
 		)
 		(property "Overload Voltage (Max)" "50V"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4450,7 +4451,7 @@
 			)
 		)
 		(property "Operating Temperature Range" "-55°C~+155°C"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4463,7 +4464,7 @@
 			)
 		)
 		(property "Tolerance" "±1%"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4476,7 +4477,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "±100ppm/°C"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4501,24 +4502,14 @@
 		(solder_mask_margin 0.038)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -0.9 -0.4)
+			(start 0.9 0.4)
 			(end -0.9 0.4)
 			(stroke
 				(width 0.05)
 				(type default)
 			)
 			(layer "F.CrtYd")
-			(uuid "a3c29972-f1e7-490f-8e3e-0eab25a53c3f")
-		)
-		(fp_line
-			(start -0.9 -0.4)
-			(end 0.9 -0.4)
-			(stroke
-				(width 0.05)
-				(type default)
-			)
-			(layer "F.CrtYd")
-			(uuid "6d01bf5b-b152-45b8-a673-2f8f0b5e93c3")
+			(uuid "175cd77f-2d7d-4102-b92e-bd83d4057a53")
 		)
 		(fp_line
 			(start 0.9 -0.4)
@@ -4531,18 +4522,29 @@
 			(uuid "73d8d207-3d99-4ce4-bc69-599e626122d4")
 		)
 		(fp_line
-			(start 0.9 0.4)
+			(start -0.9 -0.4)
+			(end 0.9 -0.4)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(layer "F.CrtYd")
+			(uuid "6d01bf5b-b152-45b8-a673-2f8f0b5e93c3")
+		)
+		(fp_line
+			(start -0.9 -0.4)
 			(end -0.9 0.4)
 			(stroke
 				(width 0.05)
 				(type default)
 			)
 			(layer "F.CrtYd")
-			(uuid "175cd77f-2d7d-4102-b92e-bd83d4057a53")
+			(uuid "a3c29972-f1e7-490f-8e3e-0eab25a53c3f")
 		)
-		(fp_rect
-			(start -0.53 -0.27)
-			(end 0.53 0.27)
+		(fp_poly
+			(pts
+				(xy -0.53 -0.27) (xy 0.53 -0.27) (xy 0.53 0.27) (xy -0.53 0.27)
+			)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -4552,7 +4554,7 @@
 			(uuid "25b86629-3b49-4e70-bc02-f5eaa36cd08b")
 		)
 		(pad "1" smd roundrect
-			(at -0.5 0)
+			(at -0.499999 0 180)
 			(size 0.56 0.62)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -4561,7 +4563,7 @@
 			(uuid "f2c6954d-9064-4a3c-846d-7cb5b4476cc8")
 		)
 		(pad "2" smd roundrect
-			(at 0.5 0)
+			(at 0.499999 0 180)
 			(size 0.56 0.62)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -4996,11 +4998,11 @@
 	(footprint "PCM_JLCPCB:D_0805"
 		(layer "F.Cu")
 		(uuid "1cc3843a-f8b0-4af8-97c9-f8b0e927c0a0")
-		(at 225.738 86.296)
+		(at 180.652 88.328 -90)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D35"
-			(at 0 -1.65 0)
+			(at 0 -1.65 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "bc021e5b-09ad-47fa-9417-d21add40b51a")
@@ -5012,7 +5014,7 @@
 			)
 		)
 		(property "Value" "Green"
-			(at 0 1.65 0)
+			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "db982c8a-f61d-43f0-8e57-2335c413f372")
 			(effects
@@ -5023,7 +5025,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1806151820_Hubei-KENTO-Elec-KT-0805G_C2297.pdf"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5036,7 +5038,7 @@
 			)
 		)
 		(property "Description" "Emerald 0805 LED Indication - Discrete ROHS"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5049,7 +5051,7 @@
 			)
 		)
 		(property "LCSC" "C2297"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5062,7 +5064,7 @@
 			)
 		)
 		(property "Stock" "2062782"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5075,7 +5077,7 @@
 			)
 		)
 		(property "Price" "0.014USD"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5088,7 +5090,7 @@
 			)
 		)
 		(property "Process" "SMT"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5101,7 +5103,7 @@
 			)
 		)
 		(property "Minimum Qty" "20"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5114,7 +5116,7 @@
 			)
 		)
 		(property "Attrition Qty" "10"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5127,7 +5129,7 @@
 			)
 		)
 		(property "Class" "Basic Component"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5140,7 +5142,7 @@
 			)
 		)
 		(property "Category" "Optoelectronics,Light Emitting Diodes (LED)"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5153,7 +5155,7 @@
 			)
 		)
 		(property "Manufacturer" "Hubei KENTO Elec"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5166,7 +5168,7 @@
 			)
 		)
 		(property "Part" "KT-0805G"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5179,7 +5181,7 @@
 			)
 		)
 		(property "Emitted Color" "Emerald"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5205,16 +5207,6 @@
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -1.69 -0.96)
-			(end -1.69 0.96)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "305e8488-8226-466d-91c5-84ef1cdd8afc")
-		)
-		(fp_line
 			(start -1.69 0.96)
 			(end 1 0.96)
 			(stroke
@@ -5223,6 +5215,16 @@
 			)
 			(layer "F.SilkS")
 			(uuid "dee50b2e-eb54-450a-a014-1731b3cd7e38")
+		)
+		(fp_line
+			(start -1.69 -0.96)
+			(end -1.69 0.96)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "305e8488-8226-466d-91c5-84ef1cdd8afc")
 		)
 		(fp_line
 			(start 1 -0.96)
@@ -5235,16 +5237,6 @@
 			(uuid "d3d477ae-9c6f-489e-8bb7-fe48add7caf5")
 		)
 		(fp_line
-			(start -1.68 -0.95)
-			(end 1.68 -0.95)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "acd5b663-5c22-4536-af0c-56fa85bde21b")
-		)
-		(fp_line
 			(start -1.68 0.95)
 			(end -1.68 -0.95)
 			(stroke
@@ -5253,16 +5245,6 @@
 			)
 			(layer "F.CrtYd")
 			(uuid "9db06a1c-2d07-40d9-8665-976472573098")
-		)
-		(fp_line
-			(start 1.68 -0.95)
-			(end 1.68 0.95)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "feb818dc-2627-435e-a4ef-a11df6d86b4a")
 		)
 		(fp_line
 			(start 1.68 0.95)
@@ -5275,14 +5257,24 @@
 			(uuid "6db58d71-3dfd-4671-ad75-711131a4a90c")
 		)
 		(fp_line
-			(start -1 -0.3)
-			(end -1 0.6)
+			(start -1.68 -0.95)
+			(end 1.68 -0.95)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "5a7f1cf4-9578-49fe-89ea-721b9befb9ea")
+			(layer "F.CrtYd")
+			(uuid "acd5b663-5c22-4536-af0c-56fa85bde21b")
+		)
+		(fp_line
+			(start 1.68 -0.95)
+			(end 1.68 0.95)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "feb818dc-2627-435e-a4ef-a11df6d86b4a")
 		)
 		(fp_line
 			(start -1 0.6)
@@ -5293,6 +5285,26 @@
 			)
 			(layer "F.Fab")
 			(uuid "6441529a-9e85-42ba-9780-d31a0d064727")
+		)
+		(fp_line
+			(start 1 0.6)
+			(end 1 -0.6)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "195c2de1-ff77-4b40-8e34-3ce0f4b17fff")
+		)
+		(fp_line
+			(start -1 -0.3)
+			(end -1 0.6)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "5a7f1cf4-9578-49fe-89ea-721b9befb9ea")
 		)
 		(fp_line
 			(start -0.7 -0.6)
@@ -5314,18 +5326,8 @@
 			(layer "F.Fab")
 			(uuid "5fc05b93-763a-4dd3-8149-db445056a27a")
 		)
-		(fp_line
-			(start 1 0.6)
-			(end 1 -0.6)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "195c2de1-ff77-4b40-8e34-3ce0f4b17fff")
-		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "c5c31b19-420c-461c-afc6-88a981153c69")
 			(effects
@@ -5336,7 +5338,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.94 0)
+			(at -0.939999 0 270)
 			(size 0.97 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -5345,7 +5347,7 @@
 			(uuid "e21e3e0f-0525-4b6d-aa40-719aaae88a95")
 		)
 		(pad "2" smd roundrect
-			(at 0.94 0)
+			(at 0.939999 0 270)
 			(size 0.97 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -5369,11 +5371,11 @@
 	(footprint "PCM_JLCPCB:D_0805"
 		(layer "F.Cu")
 		(uuid "1d7d6013-3352-4fda-b148-f2c7a8576133")
-		(at 230.208 80.156)
+		(at 188.78 88.074 -90)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D37"
-			(at 0 -1.65 0)
+			(at 0 -1.65 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "11e094b6-a53f-41cf-a67a-9ff5b4027732")
@@ -5385,7 +5387,7 @@
 			)
 		)
 		(property "Value" "Green"
-			(at 0 1.65 0)
+			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "49c8d6e0-32eb-4615-b195-76c0970beab6")
 			(effects
@@ -5396,7 +5398,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1806151820_Hubei-KENTO-Elec-KT-0805G_C2297.pdf"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5409,7 +5411,7 @@
 			)
 		)
 		(property "Description" "Emerald 0805 LED Indication - Discrete ROHS"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5422,7 +5424,7 @@
 			)
 		)
 		(property "LCSC" "C2297"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5435,7 +5437,7 @@
 			)
 		)
 		(property "Stock" "2062782"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5448,7 +5450,7 @@
 			)
 		)
 		(property "Price" "0.014USD"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5461,7 +5463,7 @@
 			)
 		)
 		(property "Process" "SMT"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5474,7 +5476,7 @@
 			)
 		)
 		(property "Minimum Qty" "20"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5487,7 +5489,7 @@
 			)
 		)
 		(property "Attrition Qty" "10"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5500,7 +5502,7 @@
 			)
 		)
 		(property "Class" "Basic Component"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5513,7 +5515,7 @@
 			)
 		)
 		(property "Category" "Optoelectronics,Light Emitting Diodes (LED)"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5526,7 +5528,7 @@
 			)
 		)
 		(property "Manufacturer" "Hubei KENTO Elec"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5539,7 +5541,7 @@
 			)
 		)
 		(property "Part" "KT-0805G"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5552,7 +5554,7 @@
 			)
 		)
 		(property "Emitted Color" "Emerald"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5578,16 +5580,6 @@
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -1.69 -0.96)
-			(end -1.69 0.96)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "3e2dcc46-219b-4066-b383-917266fb06db")
-		)
-		(fp_line
 			(start -1.69 0.96)
 			(end 1 0.96)
 			(stroke
@@ -5596,6 +5588,16 @@
 			)
 			(layer "F.SilkS")
 			(uuid "ccbf3945-5bff-4bec-b53d-f420a366c439")
+		)
+		(fp_line
+			(start -1.69 -0.96)
+			(end -1.69 0.96)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "3e2dcc46-219b-4066-b383-917266fb06db")
 		)
 		(fp_line
 			(start 1 -0.96)
@@ -5608,16 +5610,6 @@
 			(uuid "d629fb16-c4df-427b-a6c1-a7e4461a4568")
 		)
 		(fp_line
-			(start -1.68 -0.95)
-			(end 1.68 -0.95)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "f118a01d-0905-4829-9816-2d9badd22dd4")
-		)
-		(fp_line
 			(start -1.68 0.95)
 			(end -1.68 -0.95)
 			(stroke
@@ -5626,16 +5618,6 @@
 			)
 			(layer "F.CrtYd")
 			(uuid "98e73797-1c88-4cb1-a366-7892100b20cf")
-		)
-		(fp_line
-			(start 1.68 -0.95)
-			(end 1.68 0.95)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "024eb90f-29af-4dc5-8f4c-c93bfb0a8c94")
 		)
 		(fp_line
 			(start 1.68 0.95)
@@ -5648,14 +5630,24 @@
 			(uuid "f188f390-9dd3-4a53-afa6-460042f1249e")
 		)
 		(fp_line
-			(start -1 -0.3)
-			(end -1 0.6)
+			(start -1.68 -0.95)
+			(end 1.68 -0.95)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "a0cff167-fdbd-4cbb-8c0a-6abc2e19143e")
+			(layer "F.CrtYd")
+			(uuid "f118a01d-0905-4829-9816-2d9badd22dd4")
+		)
+		(fp_line
+			(start 1.68 -0.95)
+			(end 1.68 0.95)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "024eb90f-29af-4dc5-8f4c-c93bfb0a8c94")
 		)
 		(fp_line
 			(start -1 0.6)
@@ -5666,6 +5658,26 @@
 			)
 			(layer "F.Fab")
 			(uuid "2ee04714-bb54-4000-a3b6-f82532323562")
+		)
+		(fp_line
+			(start 1 0.6)
+			(end 1 -0.6)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "5fd5419f-669e-494e-888c-0896edcb4585")
+		)
+		(fp_line
+			(start -1 -0.3)
+			(end -1 0.6)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "a0cff167-fdbd-4cbb-8c0a-6abc2e19143e")
 		)
 		(fp_line
 			(start -0.7 -0.6)
@@ -5687,18 +5699,8 @@
 			(layer "F.Fab")
 			(uuid "29265280-e581-406e-9e85-1b738f8c4198")
 		)
-		(fp_line
-			(start 1 0.6)
-			(end 1 -0.6)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "5fd5419f-669e-494e-888c-0896edcb4585")
-		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "98d63984-6380-4f56-bfa4-4c41be2b0450")
 			(effects
@@ -5709,7 +5711,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.94 0)
+			(at -0.939999 0 270)
 			(size 0.97 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -5718,7 +5720,7 @@
 			(uuid "de094677-8562-48ea-aede-a2b2293fe6ce")
 		)
 		(pad "2" smd roundrect
-			(at 0.94 0)
+			(at 0.939999 0 270)
 			(size 0.97 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -5742,7 +5744,7 @@
 	(footprint "PCM_JLCPCB:R_0402"
 		(layer "F.Cu")
 		(uuid "1de776df-b947-4df2-b080-d52acc0fb352")
-		(at 226.128 91.826)
+		(at 188.78 90.614)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R36"
@@ -5759,7 +5761,7 @@
 			)
 		)
 		(property "Value" "1kΩ"
-			(at 0 0.2 0)
+			(at 0 0.199999 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5a676815-0c8c-4d54-a27d-c027629f87d4")
@@ -6081,9 +6083,10 @@
 			(layer "F.CrtYd")
 			(uuid "eebca4ed-7b2e-4d53-a6f0-59c641185aec")
 		)
-		(fp_rect
-			(start -0.53 -0.27)
-			(end 0.53 0.27)
+		(fp_poly
+			(pts
+				(xy -0.53 -0.27) (xy 0.53 -0.27) (xy 0.53 0.27) (xy -0.53 0.27)
+			)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -6093,7 +6096,7 @@
 			(uuid "11dacae6-bb31-484f-98d5-9661db7ff8ea")
 		)
 		(pad "1" smd roundrect
-			(at -0.5 0)
+			(at -0.499999 0)
 			(size 0.56 0.62)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -6102,7 +6105,7 @@
 			(uuid "009de607-b4e5-4efe-8a45-db8267681b9e")
 		)
 		(pad "2" smd roundrect
-			(at 0.5 0)
+			(at 0.499999 0)
 			(size 0.56 0.62)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -17896,11 +17899,11 @@
 	(footprint "PCM_JLCPCB:D_0805"
 		(layer "F.Cu")
 		(uuid "8ea255e9-b9de-4f34-bf39-9bff39c1cd68")
-		(at 221.268 86.296)
+		(at 175.318 88.328 -90)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D31"
-			(at 0 -1.65 0)
+			(at 0 -1.65 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "43b06dbe-093d-4702-9e95-cb3c4c05cd88")
@@ -17912,7 +17915,7 @@
 			)
 		)
 		(property "Value" "Green"
-			(at 0 1.65 0)
+			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "b6595304-2bcf-4ba9-832d-56ef087278db")
 			(effects
@@ -17923,7 +17926,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1806151820_Hubei-KENTO-Elec-KT-0805G_C2297.pdf"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -17936,7 +17939,7 @@
 			)
 		)
 		(property "Description" "Emerald 0805 LED Indication - Discrete ROHS"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -17949,7 +17952,7 @@
 			)
 		)
 		(property "LCSC" "C2297"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -17962,7 +17965,7 @@
 			)
 		)
 		(property "Stock" "2062782"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -17975,7 +17978,7 @@
 			)
 		)
 		(property "Price" "0.014USD"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -17988,7 +17991,7 @@
 			)
 		)
 		(property "Process" "SMT"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18001,7 +18004,7 @@
 			)
 		)
 		(property "Minimum Qty" "20"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18014,7 +18017,7 @@
 			)
 		)
 		(property "Attrition Qty" "10"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18027,7 +18030,7 @@
 			)
 		)
 		(property "Class" "Basic Component"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18040,7 +18043,7 @@
 			)
 		)
 		(property "Category" "Optoelectronics,Light Emitting Diodes (LED)"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18053,7 +18056,7 @@
 			)
 		)
 		(property "Manufacturer" "Hubei KENTO Elec"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18066,7 +18069,7 @@
 			)
 		)
 		(property "Part" "KT-0805G"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18079,7 +18082,7 @@
 			)
 		)
 		(property "Emitted Color" "Emerald"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18105,16 +18108,6 @@
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -1.69 -0.96)
-			(end -1.69 0.96)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "a847c6d7-5240-4ecc-8320-93fde85b380f")
-		)
-		(fp_line
 			(start -1.69 0.96)
 			(end 1 0.96)
 			(stroke
@@ -18123,6 +18116,16 @@
 			)
 			(layer "F.SilkS")
 			(uuid "9e8964cf-9bdb-4982-8a21-4b81ee07a581")
+		)
+		(fp_line
+			(start -1.69 -0.96)
+			(end -1.69 0.96)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "a847c6d7-5240-4ecc-8320-93fde85b380f")
 		)
 		(fp_line
 			(start 1 -0.96)
@@ -18135,16 +18138,6 @@
 			(uuid "3378f8c7-8a71-406e-8260-eb052803c0b5")
 		)
 		(fp_line
-			(start -1.68 -0.95)
-			(end 1.68 -0.95)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "e6933629-2254-494d-b5ed-e9128d4a6676")
-		)
-		(fp_line
 			(start -1.68 0.95)
 			(end -1.68 -0.95)
 			(stroke
@@ -18153,16 +18146,6 @@
 			)
 			(layer "F.CrtYd")
 			(uuid "96e7a7b7-062c-4b43-b2e2-1f0cd44b613b")
-		)
-		(fp_line
-			(start 1.68 -0.95)
-			(end 1.68 0.95)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "820a3b1e-7daa-43f3-bc1b-19b82c3ec8bd")
 		)
 		(fp_line
 			(start 1.68 0.95)
@@ -18175,14 +18158,24 @@
 			(uuid "cfb9bbe7-2bb1-4598-b6cb-fec6eb4a6402")
 		)
 		(fp_line
-			(start -1 -0.3)
-			(end -1 0.6)
+			(start -1.68 -0.95)
+			(end 1.68 -0.95)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "316c4256-e914-422c-9f95-fa6909a6c946")
+			(layer "F.CrtYd")
+			(uuid "e6933629-2254-494d-b5ed-e9128d4a6676")
+		)
+		(fp_line
+			(start 1.68 -0.95)
+			(end 1.68 0.95)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "820a3b1e-7daa-43f3-bc1b-19b82c3ec8bd")
 		)
 		(fp_line
 			(start -1 0.6)
@@ -18193,6 +18186,26 @@
 			)
 			(layer "F.Fab")
 			(uuid "523c66fd-e5a1-4518-877f-7d6528841a71")
+		)
+		(fp_line
+			(start 1 0.6)
+			(end 1 -0.6)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "36f38cec-cbbe-4bfb-8424-be1ea2f4b088")
+		)
+		(fp_line
+			(start -1 -0.3)
+			(end -1 0.6)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "316c4256-e914-422c-9f95-fa6909a6c946")
 		)
 		(fp_line
 			(start -0.7 -0.6)
@@ -18214,18 +18227,8 @@
 			(layer "F.Fab")
 			(uuid "3a3ac69b-1000-49f7-89e5-d35fc25540b7")
 		)
-		(fp_line
-			(start 1 0.6)
-			(end 1 -0.6)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "36f38cec-cbbe-4bfb-8424-be1ea2f4b088")
-		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "6b93445b-00e6-416a-a7c8-3fe76f82b986")
 			(effects
@@ -18236,7 +18239,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.94 0)
+			(at -0.939999 0 270)
 			(size 0.97 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -18245,7 +18248,7 @@
 			(uuid "e8f7c5e4-a003-4c95-accb-c165cc0064ce")
 		)
 		(pad "2" smd roundrect
-			(at 0.94 0)
+			(at 0.939999 0 270)
 			(size 0.97 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -20440,11 +20443,11 @@
 	(footprint "PCM_JLCPCB:D_0805"
 		(layer "F.Cu")
 		(uuid "9bca9d1e-120e-47f5-ba8a-6bc30033552b")
-		(at 225.738 80.156)
+		(at 178.112 88.328 -90)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D33"
-			(at 0 -1.65 0)
+			(at 0 -1.65 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "b62756a3-d43c-41a4-89c7-0ca0c50caa87")
@@ -20456,7 +20459,7 @@
 			)
 		)
 		(property "Value" "Green"
-			(at 0 1.65 0)
+			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "f2e20f54-0521-4a18-993f-7d56dd1298a9")
 			(effects
@@ -20467,7 +20470,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1806151820_Hubei-KENTO-Elec-KT-0805G_C2297.pdf"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -20480,7 +20483,7 @@
 			)
 		)
 		(property "Description" "Emerald 0805 LED Indication - Discrete ROHS"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -20493,7 +20496,7 @@
 			)
 		)
 		(property "LCSC" "C2297"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -20506,7 +20509,7 @@
 			)
 		)
 		(property "Stock" "2062782"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -20519,7 +20522,7 @@
 			)
 		)
 		(property "Price" "0.014USD"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -20532,7 +20535,7 @@
 			)
 		)
 		(property "Process" "SMT"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -20545,7 +20548,7 @@
 			)
 		)
 		(property "Minimum Qty" "20"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -20558,7 +20561,7 @@
 			)
 		)
 		(property "Attrition Qty" "10"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -20571,7 +20574,7 @@
 			)
 		)
 		(property "Class" "Basic Component"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -20584,7 +20587,7 @@
 			)
 		)
 		(property "Category" "Optoelectronics,Light Emitting Diodes (LED)"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -20597,7 +20600,7 @@
 			)
 		)
 		(property "Manufacturer" "Hubei KENTO Elec"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -20610,7 +20613,7 @@
 			)
 		)
 		(property "Part" "KT-0805G"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -20623,7 +20626,7 @@
 			)
 		)
 		(property "Emitted Color" "Emerald"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -20649,16 +20652,6 @@
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -1.69 -0.96)
-			(end -1.69 0.96)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "d2b5601e-469c-4aa7-a194-6a2743820205")
-		)
-		(fp_line
 			(start -1.69 0.96)
 			(end 1 0.96)
 			(stroke
@@ -20667,6 +20660,16 @@
 			)
 			(layer "F.SilkS")
 			(uuid "7140b647-7aaf-487b-99b7-ecc2ed993dec")
+		)
+		(fp_line
+			(start -1.69 -0.96)
+			(end -1.69 0.96)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "d2b5601e-469c-4aa7-a194-6a2743820205")
 		)
 		(fp_line
 			(start 1 -0.96)
@@ -20679,16 +20682,6 @@
 			(uuid "6c0b4d59-3fac-46c4-9b69-21cc64302e31")
 		)
 		(fp_line
-			(start -1.68 -0.95)
-			(end 1.68 -0.95)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "b09e2250-460a-4e51-b1cd-2afcc1bbe5f0")
-		)
-		(fp_line
 			(start -1.68 0.95)
 			(end -1.68 -0.95)
 			(stroke
@@ -20697,16 +20690,6 @@
 			)
 			(layer "F.CrtYd")
 			(uuid "99b55a9c-d100-4b16-b172-3e49d26a6604")
-		)
-		(fp_line
-			(start 1.68 -0.95)
-			(end 1.68 0.95)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "dc9a09fd-2e06-47e2-a633-88d392f525c7")
 		)
 		(fp_line
 			(start 1.68 0.95)
@@ -20719,14 +20702,24 @@
 			(uuid "707575e9-27e6-4619-b0ee-b85641a4ab2f")
 		)
 		(fp_line
-			(start -1 -0.3)
-			(end -1 0.6)
+			(start -1.68 -0.95)
+			(end 1.68 -0.95)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "5fca6ff8-721c-484a-9217-75a96488221f")
+			(layer "F.CrtYd")
+			(uuid "b09e2250-460a-4e51-b1cd-2afcc1bbe5f0")
+		)
+		(fp_line
+			(start 1.68 -0.95)
+			(end 1.68 0.95)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "dc9a09fd-2e06-47e2-a633-88d392f525c7")
 		)
 		(fp_line
 			(start -1 0.6)
@@ -20737,6 +20730,26 @@
 			)
 			(layer "F.Fab")
 			(uuid "f888efca-17c8-4368-80d1-f4290d2e6ade")
+		)
+		(fp_line
+			(start 1 0.6)
+			(end 1 -0.6)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "39efcf87-fa63-48bb-945b-5f01aa9bf0ed")
+		)
+		(fp_line
+			(start -1 -0.3)
+			(end -1 0.6)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "5fca6ff8-721c-484a-9217-75a96488221f")
 		)
 		(fp_line
 			(start -0.7 -0.6)
@@ -20758,18 +20771,8 @@
 			(layer "F.Fab")
 			(uuid "f0732ee7-c2e0-4f8e-a83a-912696010629")
 		)
-		(fp_line
-			(start 1 0.6)
-			(end 1 -0.6)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "39efcf87-fa63-48bb-945b-5f01aa9bf0ed")
-		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "142a531a-efe8-4fff-ac92-6fe82ce15765")
 			(effects
@@ -20780,7 +20783,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.94 0)
+			(at -0.939999 0 270)
 			(size 0.97 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -20789,7 +20792,7 @@
 			(uuid "70692a20-2100-49d5-8011-6a6e8e0c5bb3")
 		)
 		(pad "2" smd roundrect
-			(at 0.94 0)
+			(at 0.939999 0 270)
 			(size 0.97 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -21335,7 +21338,7 @@
 	(footprint "PCM_JLCPCB:R_0402"
 		(layer "F.Cu")
 		(uuid "a55e7ed9-6058-4619-87ee-347f0b164088")
-		(at 223.278 91.826)
+		(at 178.62 90.614 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R32"
@@ -21348,11 +21351,11 @@
 					(size 0.8 0.8)
 					(thickness 0.15)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1kΩ"
-			(at 0 0.2 0)
+			(at 0 0.199999 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c02cfa16-ed74-4ba5-a162-2ea28abb8eb4")
@@ -21364,7 +21367,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21377,7 +21380,7 @@
 			)
 		)
 		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/°C ±1% 1kΩ 0402 Chip Resistor - Surface Mount ROHS"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21402,7 +21405,7 @@
 			)
 		)
 		(property "LCSC" "C11702"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21415,7 +21418,7 @@
 			)
 		)
 		(property "Stock" "13226393"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21428,7 +21431,7 @@
 			)
 		)
 		(property "Price" "0.004USD"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21441,7 +21444,7 @@
 			)
 		)
 		(property "Process" "SMT"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21454,7 +21457,7 @@
 			)
 		)
 		(property "Minimum Qty" "20"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21467,7 +21470,7 @@
 			)
 		)
 		(property "Attrition Qty" "10"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21480,7 +21483,7 @@
 			)
 		)
 		(property "Class" "Basic Component"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21493,7 +21496,7 @@
 			)
 		)
 		(property "Category" "Resistors,Chip Resistor - Surface Mount"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21506,7 +21509,7 @@
 			)
 		)
 		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21519,7 +21522,7 @@
 			)
 		)
 		(property "Part" "0402WGF1001TCE"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21532,7 +21535,7 @@
 			)
 		)
 		(property "Resistance" "1kΩ"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21545,7 +21548,7 @@
 			)
 		)
 		(property "Power(Watts)" "62.5mW"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21558,7 +21561,7 @@
 			)
 		)
 		(property "Type" "Thick Film Resistors"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21571,7 +21574,7 @@
 			)
 		)
 		(property "Overload Voltage (Max)" "50V"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21584,7 +21587,7 @@
 			)
 		)
 		(property "Operating Temperature Range" "-55°C~+155°C"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21597,7 +21600,7 @@
 			)
 		)
 		(property "Tolerance" "±1%"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21610,7 +21613,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "±100ppm/°C"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21635,24 +21638,14 @@
 		(solder_mask_margin 0.038)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -0.9 -0.4)
+			(start 0.9 0.4)
 			(end -0.9 0.4)
 			(stroke
 				(width 0.05)
 				(type default)
 			)
 			(layer "F.CrtYd")
-			(uuid "ccc3d0fe-4c7c-4c29-9903-11d327e53c08")
-		)
-		(fp_line
-			(start -0.9 -0.4)
-			(end 0.9 -0.4)
-			(stroke
-				(width 0.05)
-				(type default)
-			)
-			(layer "F.CrtYd")
-			(uuid "40fc1a06-4949-4f01-ba7f-cc59f7182d18")
+			(uuid "eee89766-f853-4269-9798-55b525f66225")
 		)
 		(fp_line
 			(start 0.9 -0.4)
@@ -21665,18 +21658,29 @@
 			(uuid "1ed94f65-6679-4e00-9f70-4fa8107b5f85")
 		)
 		(fp_line
-			(start 0.9 0.4)
+			(start -0.9 -0.4)
+			(end 0.9 -0.4)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(layer "F.CrtYd")
+			(uuid "40fc1a06-4949-4f01-ba7f-cc59f7182d18")
+		)
+		(fp_line
+			(start -0.9 -0.4)
 			(end -0.9 0.4)
 			(stroke
 				(width 0.05)
 				(type default)
 			)
 			(layer "F.CrtYd")
-			(uuid "eee89766-f853-4269-9798-55b525f66225")
+			(uuid "ccc3d0fe-4c7c-4c29-9903-11d327e53c08")
 		)
-		(fp_rect
-			(start -0.53 -0.27)
-			(end 0.53 0.27)
+		(fp_poly
+			(pts
+				(xy -0.53 -0.27) (xy 0.53 -0.27) (xy 0.53 0.27) (xy -0.53 0.27)
+			)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -21686,7 +21690,7 @@
 			(uuid "d04e0a47-eb66-4c5a-95da-3a00f1d85499")
 		)
 		(pad "1" smd roundrect
-			(at -0.5 0)
+			(at -0.499999 0 180)
 			(size 0.56 0.62)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -21695,7 +21699,7 @@
 			(uuid "c7203e13-bf72-4c3e-9056-237153373cee")
 		)
 		(pad "2" smd roundrect
-			(at 0.5 0)
+			(at 0.499999 0 180)
 			(size 0.56 0.62)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -22581,11 +22585,11 @@
 	(footprint "PCM_JLCPCB:D_0805"
 		(layer "F.Cu")
 		(uuid "b4af1ac9-2843-41d2-9504-14ce53c87c36")
-		(at 221.268 80.156)
+		(at 172.778 88.328 -90)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D29"
-			(at 0 -1.65 0)
+			(at 0 -1.65 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "fb05139d-ef68-4713-bd59-442b4d9d1f69")
@@ -22597,7 +22601,7 @@
 			)
 		)
 		(property "Value" "Green"
-			(at 0 1.65 0)
+			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "f6b88e04-bc7b-4cee-a282-daf651a174bf")
 			(effects
@@ -22608,7 +22612,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1806151820_Hubei-KENTO-Elec-KT-0805G_C2297.pdf"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22621,7 +22625,7 @@
 			)
 		)
 		(property "Description" "Emerald 0805 LED Indication - Discrete ROHS"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22634,7 +22638,7 @@
 			)
 		)
 		(property "LCSC" "C2297"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22647,7 +22651,7 @@
 			)
 		)
 		(property "Stock" "2062782"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22660,7 +22664,7 @@
 			)
 		)
 		(property "Price" "0.014USD"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22673,7 +22677,7 @@
 			)
 		)
 		(property "Process" "SMT"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22686,7 +22690,7 @@
 			)
 		)
 		(property "Minimum Qty" "20"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22699,7 +22703,7 @@
 			)
 		)
 		(property "Attrition Qty" "10"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22712,7 +22716,7 @@
 			)
 		)
 		(property "Class" "Basic Component"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22725,7 +22729,7 @@
 			)
 		)
 		(property "Category" "Optoelectronics,Light Emitting Diodes (LED)"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22738,7 +22742,7 @@
 			)
 		)
 		(property "Manufacturer" "Hubei KENTO Elec"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22751,7 +22755,7 @@
 			)
 		)
 		(property "Part" "KT-0805G"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22764,7 +22768,7 @@
 			)
 		)
 		(property "Emitted Color" "Emerald"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22790,16 +22794,6 @@
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -1.69 -0.96)
-			(end -1.69 0.96)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "a6f1c389-49ac-4d63-bbbf-3f160b140270")
-		)
-		(fp_line
 			(start -1.69 0.96)
 			(end 1 0.96)
 			(stroke
@@ -22808,6 +22802,16 @@
 			)
 			(layer "F.SilkS")
 			(uuid "57220a17-af32-4477-ac68-844bac2f91eb")
+		)
+		(fp_line
+			(start -1.69 -0.96)
+			(end -1.69 0.96)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "a6f1c389-49ac-4d63-bbbf-3f160b140270")
 		)
 		(fp_line
 			(start 1 -0.96)
@@ -22820,16 +22824,6 @@
 			(uuid "67c710ec-5d09-47b7-87a6-37a67cf18338")
 		)
 		(fp_line
-			(start -1.68 -0.95)
-			(end 1.68 -0.95)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "43e4c1ed-7fe4-43d4-b99b-a456cd023663")
-		)
-		(fp_line
 			(start -1.68 0.95)
 			(end -1.68 -0.95)
 			(stroke
@@ -22838,16 +22832,6 @@
 			)
 			(layer "F.CrtYd")
 			(uuid "7f213fad-eeaa-45e4-8726-c318be9988e7")
-		)
-		(fp_line
-			(start 1.68 -0.95)
-			(end 1.68 0.95)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "b7e1abea-940c-413f-830d-579d04b58bc0")
 		)
 		(fp_line
 			(start 1.68 0.95)
@@ -22860,14 +22844,24 @@
 			(uuid "ad85be33-eb88-464e-afba-169b006c9804")
 		)
 		(fp_line
-			(start -1 -0.3)
-			(end -1 0.6)
+			(start -1.68 -0.95)
+			(end 1.68 -0.95)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "05a29e3a-5a48-4d78-a283-839200a4500d")
+			(layer "F.CrtYd")
+			(uuid "43e4c1ed-7fe4-43d4-b99b-a456cd023663")
+		)
+		(fp_line
+			(start 1.68 -0.95)
+			(end 1.68 0.95)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "b7e1abea-940c-413f-830d-579d04b58bc0")
 		)
 		(fp_line
 			(start -1 0.6)
@@ -22878,6 +22872,26 @@
 			)
 			(layer "F.Fab")
 			(uuid "31f46ecf-1086-413b-8026-3de89243af07")
+		)
+		(fp_line
+			(start 1 0.6)
+			(end 1 -0.6)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "b08fe6fd-79ca-423d-a893-24a1315b8397")
+		)
+		(fp_line
+			(start -1 -0.3)
+			(end -1 0.6)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "05a29e3a-5a48-4d78-a283-839200a4500d")
 		)
 		(fp_line
 			(start -0.7 -0.6)
@@ -22899,18 +22913,8 @@
 			(layer "F.Fab")
 			(uuid "ae4f4ad8-ca5b-47b7-8c13-e0c7a8d10855")
 		)
-		(fp_line
-			(start 1 0.6)
-			(end 1 -0.6)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "b08fe6fd-79ca-423d-a893-24a1315b8397")
-		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "778003ed-b59b-4e7c-9257-df4d6d0e1c84")
 			(effects
@@ -22921,7 +22925,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.94 0)
+			(at -0.939999 0 270)
 			(size 0.97 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -22930,7 +22934,7 @@
 			(uuid "1e5ab9e3-f658-4bb4-b857-e9d836f47447")
 		)
 		(pad "2" smd roundrect
-			(at 0.94 0)
+			(at 0.939999 0 270)
 			(size 0.97 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -24633,7 +24637,7 @@
 	(footprint "PCM_JLCPCB:R_0402"
 		(layer "F.Cu")
 		(uuid "baed4169-913e-4d84-86c5-e5b08233c231")
-		(at 223.278 95.526)
+		(at 181.16 90.614 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R34"
@@ -24646,11 +24650,11 @@
 					(size 0.8 0.8)
 					(thickness 0.15)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1kΩ"
-			(at 0 0.2 0)
+			(at 0 0.199999 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4793e7fd-f2b1-439e-b1a7-bec0f02cf97e")
@@ -24662,7 +24666,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -24675,7 +24679,7 @@
 			)
 		)
 		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/°C ±1% 1kΩ 0402 Chip Resistor - Surface Mount ROHS"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -24700,7 +24704,7 @@
 			)
 		)
 		(property "LCSC" "C11702"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -24713,7 +24717,7 @@
 			)
 		)
 		(property "Stock" "13226393"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -24726,7 +24730,7 @@
 			)
 		)
 		(property "Price" "0.004USD"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -24739,7 +24743,7 @@
 			)
 		)
 		(property "Process" "SMT"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -24752,7 +24756,7 @@
 			)
 		)
 		(property "Minimum Qty" "20"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -24765,7 +24769,7 @@
 			)
 		)
 		(property "Attrition Qty" "10"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -24778,7 +24782,7 @@
 			)
 		)
 		(property "Class" "Basic Component"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -24791,7 +24795,7 @@
 			)
 		)
 		(property "Category" "Resistors,Chip Resistor - Surface Mount"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -24804,7 +24808,7 @@
 			)
 		)
 		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -24817,7 +24821,7 @@
 			)
 		)
 		(property "Part" "0402WGF1001TCE"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -24830,7 +24834,7 @@
 			)
 		)
 		(property "Resistance" "1kΩ"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -24843,7 +24847,7 @@
 			)
 		)
 		(property "Power(Watts)" "62.5mW"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -24856,7 +24860,7 @@
 			)
 		)
 		(property "Type" "Thick Film Resistors"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -24869,7 +24873,7 @@
 			)
 		)
 		(property "Overload Voltage (Max)" "50V"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -24882,7 +24886,7 @@
 			)
 		)
 		(property "Operating Temperature Range" "-55°C~+155°C"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -24895,7 +24899,7 @@
 			)
 		)
 		(property "Tolerance" "±1%"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -24908,7 +24912,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "±100ppm/°C"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -24933,24 +24937,14 @@
 		(solder_mask_margin 0.038)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -0.9 -0.4)
+			(start 0.9 0.4)
 			(end -0.9 0.4)
 			(stroke
 				(width 0.05)
 				(type default)
 			)
 			(layer "F.CrtYd")
-			(uuid "896ea631-4be9-413d-a18a-b4c2607e30d7")
-		)
-		(fp_line
-			(start -0.9 -0.4)
-			(end 0.9 -0.4)
-			(stroke
-				(width 0.05)
-				(type default)
-			)
-			(layer "F.CrtYd")
-			(uuid "f839e268-7a30-4850-9fb5-c50202e21e42")
+			(uuid "e9fb587f-4553-4e95-9f6f-1ec027a8219f")
 		)
 		(fp_line
 			(start 0.9 -0.4)
@@ -24963,18 +24957,29 @@
 			(uuid "fd737f03-290d-474b-8443-2e1d82fb253d")
 		)
 		(fp_line
-			(start 0.9 0.4)
+			(start -0.9 -0.4)
+			(end 0.9 -0.4)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(layer "F.CrtYd")
+			(uuid "f839e268-7a30-4850-9fb5-c50202e21e42")
+		)
+		(fp_line
+			(start -0.9 -0.4)
 			(end -0.9 0.4)
 			(stroke
 				(width 0.05)
 				(type default)
 			)
 			(layer "F.CrtYd")
-			(uuid "e9fb587f-4553-4e95-9f6f-1ec027a8219f")
+			(uuid "896ea631-4be9-413d-a18a-b4c2607e30d7")
 		)
-		(fp_rect
-			(start -0.53 -0.27)
-			(end 0.53 0.27)
+		(fp_poly
+			(pts
+				(xy -0.53 -0.27) (xy 0.53 -0.27) (xy 0.53 0.27) (xy -0.53 0.27)
+			)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -24984,7 +24989,7 @@
 			(uuid "ab3d3dd4-a8ea-4a9b-9c50-aadcd697998a")
 		)
 		(pad "1" smd roundrect
-			(at -0.5 0)
+			(at -0.499999 0 180)
 			(size 0.56 0.62)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -24993,7 +24998,7 @@
 			(uuid "f334121f-97d3-477c-8904-e7e7d4174a88")
 		)
 		(pad "2" smd roundrect
-			(at 0.5 0)
+			(at 0.499999 0 180)
 			(size 0.56 0.62)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -26589,7 +26594,7 @@
 	(footprint "Diode_THT:D_5W_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "c7168c06-d93c-4a39-94b9-f5e769ec49b1")
-		(at 191.828001 84.518 180)
+		(at 191.828001 82.232 180)
 		(descr "Diode, 5W series, Axial, Horizontal, pin pitch=12.7mm, length*diameter=8.9*3.7mm^2, http://www.diodes.com/_files/packages/8686949.gif")
 		(tags "Diode 5W series Axial Horizontal pin pitch 12.7mm  length 8.9mm diameter 3.7mm")
 		(property "Reference" "D55"
@@ -36304,6 +36309,54 @@
 		(uuid "df8f9280-8a72-4ef3-ba7f-6e25d128fec6")
 	)
 	(segment
+		(start 173.785999 90.614)
+		(end 173.785999 86.812001)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "P19")
+		(uuid "483306b4-d46a-4453-a5fb-604bbac2f98a")
+	)
+	(segment
+		(start 173.785999 92.865998)
+		(end 173.920001 93)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "P19")
+		(uuid "80855aed-589a-47be-8ddf-b846d5f73d5a")
+	)
+	(segment
+		(start 173.785999 86.812001)
+		(end 174.302 86.296)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "P19")
+		(uuid "a1614d7f-a8e2-4563-968b-e8993b8b2020")
+	)
+	(segment
+		(start 173.785999 90.614)
+		(end 173.785999 92.865998)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "P19")
+		(uuid "fadcf8b3-444c-48db-8734-436ce2b13142")
+	)
+	(segment
+		(start 172.786001 89.276)
+		(end 172.778 89.267999)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(D29-Pad2)")
+		(uuid "27219a87-d803-4bb7-bb0e-5d805ca0ff6f")
+	)
+	(segment
+		(start 172.786001 90.614)
+		(end 172.786001 89.276)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(D29-Pad2)")
+		(uuid "3f6426ca-077f-4b7c-aac1-759a55e6bf69")
+	)
+	(segment
 		(start 144.829999 90.36)
 		(end 144.829999 85.796001)
 		(width 0.2)
@@ -36792,6 +36845,30 @@
 		(uuid "ce9bdcc6-2780-4c4c-80fc-e325c321e76a")
 	)
 	(segment
+		(start 176.325999 90.614)
+		(end 176.325999 92.865998)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "P22")
+		(uuid "1e0752d0-14f8-40ec-81a6-8ef18d32b8bd")
+	)
+	(segment
+		(start 176.325999 92.865998)
+		(end 176.460001 93)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "P22")
+		(uuid "328a5c5f-0e72-43dd-9963-53ff7e90c41f")
+	)
+	(segment
+		(start 176.325999 90.614)
+		(end 176.325999 87.574001)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "P22")
+		(uuid "f0d1d61c-6666-469a-b553-219e4dc1411a")
+	)
+	(segment
 		(start 170.451999 46.49)
 		(end 174.048 42.893999)
 		(width 0.2)
@@ -37120,6 +37197,22 @@
 		(uuid "77c4e704-d494-4c42-a770-b4e79050e6d1")
 	)
 	(segment
+		(start 175.326001 89.276)
+		(end 175.318 89.267999)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(D31-Pad2)")
+		(uuid "19074cb6-26bf-4fac-9a41-45e9492f3d93")
+	)
+	(segment
+		(start 175.326001 90.614)
+		(end 175.326001 89.276)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(D31-Pad2)")
+		(uuid "6bcacbff-0c4b-4f16-b7fb-dc50e85d0475")
+	)
+	(segment
 		(start 149.164001 89.276)
 		(end 148.902 89.013999)
 		(width 0.2)
@@ -37333,23 +37426,23 @@
 		(width 0.2)
 		(layer "F.Cu")
 		(net "UART_BACK")
-		(uuid "1e99a462-bcbb-4a1c-b3e9-ed10f258d193")
+		(uuid "0d98c264-8ebf-46d2-ad86-2d1c732d4bf2")
 	)
 	(segment
-		(start 168.34 55.696)
+		(start 164.365522 55.786)
+		(end 165.442478 55.786)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "UART_BACK")
+		(uuid "8905b871-6011-4db9-a94d-bf843870d2ab")
+	)
+	(segment
+		(start 168.46 55.816)
 		(end 168.67 56.026)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "UART_BACK")
-		(uuid "513717e7-700e-4e84-b1a0-d40695db9e10")
-	)
-	(segment
-		(start 145.092 57.086)
-		(end 146.482 55.696)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "UART_BACK")
-		(uuid "6456107d-d6a1-431a-bede-a3e2fcb5b736")
+		(uuid "a5ecc3f0-6144-4540-8fcd-bbbac6ee363d")
 	)
 	(segment
 		(start 188.228 56.026)
@@ -37357,15 +37450,23 @@
 		(width 0.2)
 		(layer "F.Cu")
 		(net "UART_BACK")
-		(uuid "7bc5b80d-ebfd-4767-858e-747d90d5184e")
+		(uuid "ae1b89b5-d5a0-41b3-88c5-095452b6236d")
 	)
 	(segment
-		(start 146.482 55.696)
-		(end 168.34 55.696)
+		(start 165.472478 55.816)
+		(end 168.46 55.816)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "UART_BACK")
-		(uuid "ced11316-cc3d-4059-bb01-ab3be5038f72")
+		(uuid "c27bf97f-dfff-4a25-a70d-ea1543b57bed")
+	)
+	(segment
+		(start 145.092 57.086)
+		(end 146.362 55.816)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "UART_BACK")
+		(uuid "e1bd17e8-d148-425a-bf1a-d6b2b4604d86")
 	)
 	(segment
 		(start 168.67 56.026)
@@ -37373,7 +37474,31 @@
 		(width 0.2)
 		(layer "F.Cu")
 		(net "UART_BACK")
-		(uuid "d23799cc-2412-4680-9fe4-b6b11a4179b0")
+		(uuid "e30bca51-e0c1-4095-9a57-2612a32e9396")
+	)
+	(segment
+		(start 164.335522 55.816)
+		(end 164.365522 55.786)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "UART_BACK")
+		(uuid "e56b8acc-361f-4c99-9c8e-d942ccef71e9")
+	)
+	(segment
+		(start 146.362 55.816)
+		(end 164.335522 55.816)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "UART_BACK")
+		(uuid "f3dba8a9-1543-4015-a1ef-301bbf1693bb")
+	)
+	(segment
+		(start 165.442478 55.786)
+		(end 165.472478 55.816)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "UART_BACK")
+		(uuid "f43be884-8bda-46fe-b11d-29974522ff73")
 	)
 	(segment
 		(start 158.816001 89.276)
