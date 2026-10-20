@@ -5796,7 +5796,7 @@
 	)
 	(global_label "TX_DEBUG"
 		(shape input)
-		(at 209.55 127 90)
+		(at 212.09 127 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5806,7 +5806,7 @@
 		)
 		(uuid "b0a1aaae-e5a8-452d-8a85-c8732bbc8bab")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 209.55 114.5806 90)
+			(at 212.09 114.5806 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5964,7 +5964,7 @@
 	)
 	(global_label "RX_DEBUG"
 		(shape input)
-		(at 212.09 127 90)
+		(at 209.55 127 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5974,7 +5974,7 @@
 		)
 		(uuid "e9abf9d3-260d-4798-a9ad-e2be50cac8b4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 212.09 114.2782 90)
+			(at 209.55 114.2782 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
