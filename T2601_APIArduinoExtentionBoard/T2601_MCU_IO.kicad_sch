@@ -4121,10 +4121,6 @@
 					(reference "J15")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "J29")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -4326,10 +4322,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "D37")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "D65")
 					(unit 1)
 				)
 			)
@@ -4600,10 +4592,6 @@
 					(reference "R29")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "R56")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -4680,10 +4668,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "#PWR0113")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR0193")
 					(unit 1)
 				)
 			)
@@ -4889,10 +4873,6 @@
 					(reference "D38")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "D66")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -4969,10 +4949,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "#PWR0106")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR0200")
 					(unit 1)
 				)
 			)
@@ -5178,10 +5154,6 @@
 					(reference "D33")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "D61")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -5258,10 +5230,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "#PWR0119")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR0207")
 					(unit 1)
 				)
 			)
@@ -5532,10 +5500,6 @@
 					(reference "R33")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "R60")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -5737,10 +5701,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "D42")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "D70")
 					(unit 1)
 				)
 			)
@@ -5946,10 +5906,6 @@
 					(reference "D41")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "D69")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -6026,10 +5982,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "#PWR0118")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR0206")
 					(unit 1)
 				)
 			)
@@ -6300,10 +6252,6 @@
 					(reference "R40")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "R67")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -6382,10 +6330,6 @@
 					(reference "#PWR0100")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR0196")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -6462,10 +6406,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "#PWR0108")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR0190")
 					(unit 1)
 				)
 			)
@@ -6736,10 +6676,6 @@
 					(reference "R35")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "R62")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -6838,10 +6774,6 @@
 					(reference "J18")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "J32")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -6918,10 +6850,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "#PWR0104")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR0188")
 					(unit 1)
 				)
 			)
@@ -7127,10 +7055,6 @@
 					(reference "D36")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "D64")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -7209,10 +7133,6 @@
 					(reference "#PWR017")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR020")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -7289,10 +7209,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "#PWR036")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -7563,10 +7479,6 @@
 					(reference "R30")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "R57")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -7643,10 +7555,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "#PWR0115")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR0204")
 					(unit 1)
 				)
 			)
@@ -7751,10 +7659,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "J17")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "J31")
 					(unit 1)
 				)
 			)
@@ -7958,10 +7862,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "D39")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "D67")
 					(unit 1)
 				)
 			)
@@ -8232,10 +8132,6 @@
 					(reference "R32")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "R59")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -8314,10 +8210,6 @@
 					(reference "#PWR0110")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR0201")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -8394,10 +8286,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "#PWR0101")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR0187")
 					(unit 1)
 				)
 			)
@@ -8603,10 +8491,6 @@
 					(reference "D40")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "D68")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -8683,10 +8567,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "#PWR0109")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR0191")
 					(unit 1)
 				)
 			)
@@ -8957,10 +8837,6 @@
 					(reference "R31")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "R58")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -9037,10 +8913,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "#PWR018")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -9311,10 +9183,6 @@
 					(reference "R38")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "R65")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -9391,10 +9259,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "#PWR0120")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR0208")
 					(unit 1)
 				)
 			)
@@ -9665,10 +9529,6 @@
 					(reference "R43")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "R70")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -9937,10 +9797,6 @@
 					(reference "R28")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "R55")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -10019,10 +9875,6 @@
 					(reference "#PWR0103")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR0198")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -10099,10 +9951,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "#PWR0116")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR0194")
 					(unit 1)
 				)
 			)
@@ -10201,10 +10049,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "J22")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "J36")
 					(unit 1)
 				)
 			)
@@ -10475,10 +10319,6 @@
 					(reference "R42")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "R69")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -10745,10 +10585,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "R41")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "R68")
 					(unit 1)
 				)
 			)
@@ -11019,10 +10855,6 @@
 					(reference "R36")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "R63")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -11226,10 +11058,6 @@
 					(reference "D34")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "D62")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -11308,10 +11136,6 @@
 					(reference "#PWR0102")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR0197")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -11388,10 +11212,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "#PWR0107")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR0189")
 					(unit 1)
 				)
 			)
@@ -11597,10 +11417,6 @@
 					(reference "D35")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "D63")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -11677,10 +11493,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "#PWR0105")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR0199")
 					(unit 1)
 				)
 			)
@@ -11951,10 +11763,6 @@
 					(reference "R34")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "R61")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -12158,10 +11966,6 @@
 					(reference "D43")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "D71")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -12238,10 +12042,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "#PWR046")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -12447,10 +12247,6 @@
 					(reference "D30")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "D58")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -12652,10 +12448,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "D29")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "D57")
 					(unit 1)
 				)
 			)
@@ -12861,10 +12653,6 @@
 					(reference "D31")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "D59")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -12945,10 +12733,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "J19")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "J33")
 					(unit 1)
 				)
 			)
@@ -13154,10 +12938,6 @@
 					(reference "D32")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "D60")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -13234,10 +13014,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "#PWR0121")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR0195")
 					(unit 1)
 				)
 			)
@@ -13318,10 +13094,6 @@
 					(reference "#PWR0114")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR0203")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -13398,10 +13170,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "#PWR0112")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR0192")
 					(unit 1)
 				)
 			)
@@ -13607,10 +13375,6 @@
 					(reference "D44")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "D72")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -13687,10 +13451,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "#PWR072")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR073")
 					(unit 1)
 				)
 			)
@@ -13961,10 +13721,6 @@
 					(reference "R37")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "R64")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -14233,10 +13989,6 @@
 					(reference "R39")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "R66")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -14313,10 +14065,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "#PWR016")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -14423,10 +14171,6 @@
 					(reference "J16")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "J30")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -14503,10 +14247,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "#PWR0111")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR0202")
 					(unit 1)
 				)
 			)
@@ -14613,10 +14353,6 @@
 					(reference "J21")
 					(unit 1)
 				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "J35")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -14693,10 +14429,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "#PWR0117")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "#PWR0205")
 					(unit 1)
 				)
 			)
@@ -14801,10 +14533,6 @@
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/20168338-9013-4616-bb52-84e9a2518e25"
 					(reference "J20")
-					(unit 1)
-				)
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
-					(reference "J34")
 					(unit 1)
 				)
 			)

@@ -1728,7 +1728,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2deabdd8-f2a8-4072-acde-c590e8ae6323")
-		(property "Reference" "#PWR"
+		(property "Reference" "#PWR0182"
 			(at 119.38 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -1787,7 +1787,7 @@
 		)
 		(instances
 			(project "T2601_APIArduinoExtentionBoard"
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202"
+				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
 					(reference "#PWR0182")
 					(unit 1)
 				)
@@ -1806,7 +1806,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3a23d7dd-3d95-4215-8e10-9cb753bbef4f")
-		(property "Reference" "R"
+		(property "Reference" "R51"
 			(at 176.53 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2055,7 +2055,7 @@
 		)
 		(instances
 			(project "T2601_APIArduinoExtentionBoard"
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202"
+				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
 					(reference "R51")
 					(unit 1)
 				)
@@ -2074,7 +2074,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "451e8feb-6b78-4a2d-9419-b6cb3b71b0a1")
-		(property "Reference" "R"
+		(property "Reference" "R53"
 			(at 186.69 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2323,7 +2323,7 @@
 		)
 		(instances
 			(project "T2601_APIArduinoExtentionBoard"
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202"
+				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
 					(reference "R53")
 					(unit 1)
 				)
@@ -2342,7 +2342,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45261fb4-a10b-4d4d-b42c-d313bf0df52b")
-		(property "Reference" "D"
+		(property "Reference" "D54"
 			(at 186.69 86.2646 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2515,7 +2515,7 @@
 		)
 		(instances
 			(project "T2601_APIArduinoExtentionBoard"
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202"
+				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
 					(reference "D54")
 					(unit 1)
 				)
@@ -2533,7 +2533,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "46b1b45d-354b-4b0d-a83e-6cb5fb98cc1c")
-		(property "Reference" "J"
+		(property "Reference" "J28"
 			(at 136.144 100.838 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2606,7 +2606,7 @@
 		)
 		(instances
 			(project "T2601_APIArduinoExtentionBoard"
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202"
+				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
 					(reference "J28")
 					(unit 1)
 				)
@@ -2625,7 +2625,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4eadf2b1-c374-4d8f-b21b-5e7196da9035")
-		(property "Reference" "D"
+		(property "Reference" "D52"
 			(at 176.53 86.2646 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2798,7 +2798,7 @@
 		)
 		(instances
 			(project "T2601_APIArduinoExtentionBoard"
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202"
+				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
 					(reference "D52")
 					(unit 1)
 				)
@@ -2817,7 +2817,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5e78a2d1-e408-4e49-a82b-ff7b99edfacf")
-		(property "Reference" "#PWR"
+		(property "Reference" "#PWR0181"
 			(at 118.11 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -2876,7 +2876,7 @@
 		)
 		(instances
 			(project "T2601_APIArduinoExtentionBoard"
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202"
+				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
 					(reference "#PWR0181")
 					(unit 1)
 				)
@@ -2895,7 +2895,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "afd48305-66e1-484d-8613-a39f6b66ad7f")
-		(property "Reference" "D"
+		(property "Reference" "D55"
 			(at 121.92 83.5024 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2958,7 +2958,7 @@
 		)
 		(instances
 			(project "T2601_APIArduinoExtentionBoard"
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202"
+				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
 					(reference "D55")
 					(unit 1)
 				)
@@ -2977,7 +2977,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ba61cd48-b1b6-4ded-a62d-b8b5b18d18e2")
-		(property "Reference" "#PWR"
+		(property "Reference" "#PWR0180"
 			(at 184.15 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -3036,7 +3036,7 @@
 		)
 		(instances
 			(project "T2601_APIArduinoExtentionBoard"
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202"
+				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
 					(reference "#PWR0180")
 					(unit 1)
 				)
@@ -3055,7 +3055,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed510b00-5351-4c8d-82fb-abca92afd2b6")
-		(property "Reference" "#PWR"
+		(property "Reference" "#PWR0178"
 			(at 173.99 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -3114,7 +3114,7 @@
 		)
 		(instances
 			(project "T2601_APIArduinoExtentionBoard"
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202"
+				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/24664caa-e0c0-4ea4-b2a3-fac74f670bd6"
 					(reference "#PWR0178")
 					(unit 1)
 				)
