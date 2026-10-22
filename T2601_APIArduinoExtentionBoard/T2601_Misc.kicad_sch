@@ -686,36 +686,6 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 62.23) (xy 224.79 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6fc528ec-697b-49dc-b7e4-99dba864385d")
-	)
-	(wire
-		(pts
-			(xy 226.06 62.23) (xy 224.79 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9659b6f7-4346-4125-9398-6ba7052eacb6")
-	)
-	(wire
-		(pts
-			(xy 212.09 62.23) (xy 209.55 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9da2e458-9c6e-40b9-8ff0-fdf3bac50216")
-	)
-	(wire
-		(pts
 			(xy 224.79 73.66) (xy 224.79 77.47)
 		)
 		(stroke
@@ -723,64 +693,6 @@
 			(type default)
 		)
 		(uuid "ac690696-dcef-4c32-aa45-d1a2b28a6c72")
-	)
-	(wire
-		(pts
-			(xy 209.55 62.23) (xy 209.55 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b45143de-33e3-4878-bf13-e6f7faa2a867")
-	)
-	(global_label "UART_BACK"
-		(shape input)
-		(at 226.06 62.23 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "035f2cb6-35e7-4ce3-939d-d6a144469998")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 239.3766 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "TX"
-		(shape input)
-		(at 212.09 62.23 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "9a73572e-5eee-441e-80e4-28a148478e02")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 217.2213 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
@@ -1024,7 +936,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53c7f348-9d15-4aa1-a110-f480c6f1fa84")
-		(property "Reference" "TP3"
+		(property "Reference" "TP2"
 			(at 213.36 79.502 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1081,85 +993,6 @@
 		)
 		(pin "1"
 			(uuid "d2471dbb-6e1d-4696-85fe-b8f3356a8595")
-		)
-		(instances
-			(project "T2601_APIArduinoExtentionBoard"
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/96118754-a04d-432b-9593-d5fa1f3fdf58"
-					(reference "TP3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 224.79 59.69 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "726c136c-1ae7-49c9-8f78-0b61002972ff")
-		(property "Reference" "TP2"
-			(at 227.33 55.1179 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 227.33 57.6579 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile"
-			(at 229.87 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 229.87 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 224.79 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ae27516f-2dc8-4f64-814a-7e53c0dbcbf7")
 		)
 		(instances
 			(project "T2601_APIArduinoExtentionBoard"
@@ -1260,7 +1093,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "915ec4f6-450a-4e34-834a-7372e8d387a9")
-		(property "Reference" "TP5"
+		(property "Reference" "TP1"
 			(at 245.11 55.1179 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1321,7 +1154,7 @@
 		(instances
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/96118754-a04d-432b-9593-d5fa1f3fdf58"
-					(reference "TP5")
+					(reference "TP1")
 					(unit 1)
 				)
 			)
@@ -1559,85 +1392,6 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 209.55 59.69 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e17baa18-97bf-409b-bf5a-d7d746d3c231")
-		(property "Reference" "TP1"
-			(at 212.09 55.1179 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 212.09 57.6579 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile"
-			(at 214.63 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 214.63 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 209.55 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "82bee01f-164e-4dd8-9aa4-2200089cf0d8")
-		)
-		(instances
-			(project "T2601_APIArduinoExtentionBoard"
-				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/96118754-a04d-432b-9593-d5fa1f3fdf58"
-					(reference "TP1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
 		(at 224.79 77.47 180)
 		(unit 1)
 		(body_style 1)
@@ -1648,7 +1402,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa8a0351-18dd-4506-8e11-ac0b3f4395de")
-		(property "Reference" "TP4"
+		(property "Reference" "TP3"
 			(at 227.33 79.502 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1709,7 +1463,7 @@
 		(instances
 			(project "T2601_APIArduinoExtentionBoard"
 				(path "/ff48760a-7750-46de-b467-7e55c22e4653/fede4c36-00cc-4d3d-b71c-5243ba232202/96118754-a04d-432b-9593-d5fa1f3fdf58"
-					(reference "TP4")
+					(reference "TP3")
 					(unit 1)
 				)
 			)
