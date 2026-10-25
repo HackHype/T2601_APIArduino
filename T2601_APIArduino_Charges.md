@@ -76,6 +76,16 @@ _les interruptions ne sont pas notées dans les fonctions_
 Largeur 60, Hauteur 90 à définir
 4 trous pour vis M3 avec un entraxe de 30 en largeur, à 10 du bord suppérieur et à 20 du bord inférieur.
 
+# Alimentation + CPU
+
+## Généralité
+
+Cette carte combine Un gestion d'alimentation et une CPU. Elle est alimenté de l'extérieur en 12VDC. Elle fournit du 5VDC au BUS et du 3.3VDC pour la CPU. La CPU peut être un ESP32 ou un teensy no??.
+
+## Fonctionnalité
+
+
+
 # Mezanine
 
 1 connecteur pin header male 1x10
