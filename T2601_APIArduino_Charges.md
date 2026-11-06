@@ -1,5 +1,25 @@
 # T2601 API Arduino
 
+# Alimentation + CPU
+
+## Généralité
+
+Cette carte combine Un gestion d'alimentation et une CPU. 
+Elle est alimenté de l'extérieur en 12VDC. 
+Elle génére du 5VDC pour le BUS et du 3.3VDC pour la CPU.
+Elle peut transferer le 12VDC au BUS puissance.
+La CPU peut être un ESP32 (version à choisir) ou un teensy (version à choisir).
+
+## Mécanique
+
+4 trous pour vis M3 avec un entraxe de 30 en largeur, à 10 du bord suppérieur et à 20 du bord inférieur.
+
+# Carte de communication
+
+## MCU
+
+Potentiellement ESP32-S3
+
 # Carte Extension
 
 ## Généralité
@@ -76,16 +96,6 @@ _les interruptions ne sont pas notées dans les fonctions_
 Largeur 60, Hauteur 90 à définir
 4 trous pour vis M3 avec un entraxe de 30 en largeur, à 10 du bord suppérieur et à 20 du bord inférieur.
 
-# Alimentation + CPU
-
-## Généralité
-
-Cette carte combine Un gestion d'alimentation et une CPU. Elle est alimenté de l'extérieur en 12VDC. Elle fournit du 5VDC au BUS et du 3.3VDC pour la CPU. La CPU peut être un ESP32 ou un teensy no??.
-
-## Fonctionnalité
-
-
-
 # Mezanine
 
 1 connecteur pin header male 1x10
@@ -157,8 +167,3 @@ avoir un groupe de potentiellement 127 ou 256 "registre" qui peuvent être lu ou
 |32|16|typiquement, un registre par pin pour analog ou pour PWM|
 |48|16|typiquement, un registre par pin pour analog ou pour PWM|
 |64|64 ou 192|divers|
-
-
-
-# Carte Principale
-
